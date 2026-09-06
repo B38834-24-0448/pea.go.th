@@ -1,6 +1,370 @@
 การไฟฟ้าเชียงคานไม่จ่ายเงินเดือนพวกผมมา2-3ปีแล้วไปติิดต่อหลายรอบแล้ว
 # https://github.com/B38834-24-0448?tab=repositories
 # https://biodieselproductionstation.wordpress.com/
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center"><a href="https://en.wikipedia.org/wiki/File:Question_book-new.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="icon" height="39" width="50"></a></td><td>This article&nbsp;<strong>needs&nbsp;<a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability">more citations</a></strong>.&nbsp;Please help&nbsp;<a href="https://en.wikipedia.org/wiki/Special:EditPage/Chiang_Khan_district">improve this article</a>&nbsp;by&nbsp;<a href="https://en.wikipedia.org/wiki/Help:Referencing_for_beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and&nbsp;<a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence">removed</a>.<br><small><em>Find sources:</em>&nbsp;<a href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Chiang+Khan+district%22">"Chiang Khan district"</a>&nbsp;–&nbsp;<a href="https://www.google.com/search?tbm=nws&amp;q=%22Chiang+Khan+district%22+-wikipedia&amp;tbs=ar:1">news</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.google.com/search?&amp;q=%22Chiang+Khan+district%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.google.com/search?tbs=bks:1&amp;q=%22Chiang+Khan+district%22+-wikipedia">books</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://scholar.google.com/scholar?q=%22Chiang+Khan+district%22">scholar</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.jstor.org/action/doBasicSearch?Query=%22Chiang+Khan+district%22&amp;acc=on&amp;wc=on">JSTOR</a></small>&nbsp;<em>(July 2016)</em><em>&nbsp;(<small><a href="https://en.wikipedia.org/wiki/Help:Maintenance_template_removal">Learn how and when to remove this message</a></small>)</em></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th class="has-text-align-center" data-align="center" colspan="2"><a href="https://github.com/869386072406849">Chiang Khan</a>เชียงคาน</th></tr><tr><td class="has-text-align-center" data-align="center" colspan="2"><a href="https://en.wikipedia.org/wiki/District">District</a></td></tr><tr><td class="has-text-align-center" data-align="center" colspan="2"><a href="https://en.wikipedia.org/wiki/File:%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2_158.000MHz.jpg"><img height="250" width="250" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2_158.000MHz.jpg/250px-%E0%B8%AA%E0%B8%B3%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%9B%E0%B8%A5%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%A1%E0%B8%99%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2_158.000MHz.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="File:Thailand Loei.png"></a><br><a href="https://en.wikipedia.org/wiki/Kaeng_Khut_Khu?action=edit&amp;redlink=1">Kaeng Khut Khu</a>&nbsp;beach on the Mekong River</td></tr><tr><td class="has-text-align-center" data-align="center" colspan="2"><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#/map/0"><img src="https://maps.wikimedia.org/img/osm-intl,8,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Chiang_Khan_district&amp;revid=1372810860&amp;groups=_47c0a053fb24bf59fa851d77bc458ad16de48221&amp;parser=parsoid" width="250" height="200" alt="Map"></a><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#/map/0"></a><a href="https://foundation.wikimedia.org/wiki/Maps_Terms_of_Use">Wikimedia</a>&nbsp;| ©&nbsp;<a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>Interactive map of&nbsp;<a href="https://github.com/869386072406849">Chiang Khan</a></td></tr><tr><td class="has-text-align-center" data-align="center" colspan="2">Coordinates:&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/WMA_button2b.png/20px-WMA_button2b.png" width="17" height="17" alt=""><a href="https://geohack.toolforge.org/geohack.php?pagename=Chiang_Khan_district&amp;params=17_53_53_N_101_39_59_E_type:adm2nd_region:TH">17°53′53″N&nbsp;101°39′59″E</a></td></tr><tr><th class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Country">Country</a></th><td class="has-text-align-left" data-align="left">Thailand</td></tr><tr><th class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Provinces_of_Thailand">Province</a></th><td class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Loei_Province">Loei</a></td></tr><tr><th class="has-text-align-left" data-align="left">Seat</th><td class="has-text-align-left" data-align="left">Chiang Khan</td></tr><tr><th class="has-text-align-left" data-align="left">สำนักงานตำรวจแห่งชาติ ภาครัฐเอกชน</th><td class="has-text-align-left" data-align="left">จ่าสิบเอกชวลิตร เวรสวัสดิ์ นายก อบต.เชียงคาน ผู้กองภาคส่วน</td></tr><tr><th class="has-text-align-left" data-align="left">สำนักงานตำรวจแห่งชาติ ภาครัฐเอกชน</th><td class="has-text-align-left" data-align="left">พันตำรวจโทวิศิษฎ์ ทองโม้ รอง.สวป.ภาคส่วน</td></tr><tr><th class="has-text-align-left" data-align="left" colspan="2">Area</th></tr><tr><th class="has-text-align-left" data-align="left">&nbsp;•&nbsp;Total</th><td class="has-text-align-left" data-align="left">867.0&nbsp;km<sup>2</sup>&nbsp;(334.8&nbsp;sq&nbsp;mi)</td></tr><tr><th class="has-text-align-left" data-align="left" colspan="2">Population&nbsp;(2005)</th></tr><tr><th class="has-text-align-left" data-align="left">&nbsp;•&nbsp;Total</th><td class="has-text-align-left" data-align="left">59,016</td></tr><tr><th class="has-text-align-left" data-align="left">&nbsp;•&nbsp;Density</th><td class="has-text-align-left" data-align="left">68.1/km<sup>2</sup>&nbsp;(176/sq&nbsp;mi)</td></tr><tr><th class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Time_zone">Time&nbsp;zone</a></th><td class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/UTC+7">UTC+7</a>&nbsp;(<a href="https://en.wikipedia.org/wiki/Time_in_Thailand">ICT</a>)</td></tr><tr><th class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Postal_code">Postal code</a></th><td class="has-text-align-left" data-align="left">42110</td></tr><tr><th class="has-text-align-left" data-align="left"><a href="https://en.wikipedia.org/wiki/Geocode">Geocode</a></th><td class="has-text-align-left" data-align="left">4203</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><strong>Chiang Khan</strong>&nbsp;(<a href="https://en.wikipedia.org/wiki/Thai_language">Thai</a>:&nbsp;เชียงคาน,&nbsp;pronounced&nbsp;<a href="https://en.wikipedia.org/wiki/Help:IPA/Thai">[t͡ɕʰīa̯ŋ&nbsp;kʰāːn]</a>) is a district (<em><a href="https://en.wikipedia.org/wiki/Amphoe">amphoe</a></em>) in the northern part of&nbsp;<a href="https://en.wikipedia.org/wiki/Loei_province">Loei province</a>, in northeastern&nbsp;<a href="https://en.wikipedia.org/wiki/Thailand">Thailand</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Geography</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Neighbouring districts are (from the east clockwise):&nbsp;<a href="https://en.wikipedia.org/wiki/Pak_Chom_district">Pak Chom</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Mueang_Loei_district">Mueang Loei</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Tha_Li_district">Tha Li</a>&nbsp;of Loei Province. To the northwest are the&nbsp;<a href="https://en.wikipedia.org/wiki/Xaignabouli_Province">Xaignabouli</a>&nbsp;and&nbsp;<a href="https://en.wikipedia.org/wiki/Vientiane_Province">Vientiane</a>&nbsp;Provinces of&nbsp;<a href="https://en.wikipedia.org/wiki/Laos">Laos</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The important water resources are the&nbsp;<a href="https://en.wikipedia.org/wiki/Mekong">Mekong</a>,&nbsp;<a href="https://en.wikipedia.org/wiki/Hueang_River">Hueang</a>, and&nbsp;<a href="https://en.wikipedia.org/wiki/Loei_River">Loei</a>&nbsp;Rivers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">History</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chiang Khan was founded in the late-19th century when Lao villagers crossed the Mekong after the French colonised Laos. More migrants later arrived from Vietnam and China. Chiang Khan became a trading hub largely due to its location on the river. People on both sides of the rivers exchanged goods, culture, and language. Trading stopped in 1975 when the&nbsp;<a href="https://en.wikipedia.org/wiki/Communist">communist</a>&nbsp;<a href="https://en.wikipedia.org/wiki/Pathet_Lao">Pathet Lao</a>&nbsp;seized power from the Lao government and cut economic ties to Thailand. Chiang Khan languished until rediscovered in the early-21st century.<sup><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_note-BP-20160724-1">[1]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Administration</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The district is divided into eight sub-districts (<em><a href="https://en.wikipedia.org/wiki/Tambon">tambons</a></em>), which are further subdivided into 78 villages (<em><a href="https://en.wikipedia.org/wiki/Muban">mubans</a></em>). There are two townships (<em><a href="https://en.wikipedia.org/wiki/Thesaban_tambon">thesaban tambons</a></em>), Chiang Khan and Khao Kaeo, each covering parts of&nbsp;<em>tambons</em>&nbsp;of the same names. There are a further seven tambon administrative organizations (TAO).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th>No.</th><th>Name</th><th>Thai name</th><th>Villages</th><th>Pop.</th></tr><tr><td>1.</td><td>Chiang Khan</td><td>เชียงคาน</td><td>6</td><td>10,245</td><td></td></tr><tr><td>2.</td><td>That</td><td>ธาตุ</td><td>15</td><td>9,523</td><td></td></tr><tr><td>3.</td><td>Na Sao</td><td>นาซ่าว</td><td>15</td><td>11,453</td><td></td></tr><tr><td>4.</td><td>Khao Kaeo</td><td>เขาแก้ว</td><td>13</td><td>7,596</td><td></td></tr><tr><td>5.</td><td>Pak Tom</td><td>ปากตม</td><td>7</td><td>5,967</td><td></td></tr><tr><td>6.</td><td>Bu Hom</td><td>บุฮม</td><td>10</td><td>7,528</td><td></td></tr><tr><td>7.</td><td>Chom Si</td><td>จอมศรี</td><td>7</td><td>4,301</td><td></td></tr><tr><td>8.</td><td>Hat Sai Khao</td><td>หาดทรายขาว</td><td>5</td><td>2,403</td><td></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Economy</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Fishing the Mekong River was formerly Chiang Khan's biggest earner. Some 650,000 persons, Thai and foreign, visit the village every year.<sup><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_note-BP-20160724-1">[1]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Popular culture</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chiang Khan was used as the main setting for the 2014 romantic comedy Chiang Khan Love Story (<em>Tookae Ruk Pang Mak</em>), directed by&nbsp;<a href="https://en.wikipedia.org/wiki/Yuthlert_Sippapak">Yuthlert Sippapak</a>. It was the seventh highest-grossing film in Thailand in 2014.<sup><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_note-2">[2]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chiang Khan was referenced in 2018–19&nbsp;<a href="https://en.wikipedia.org/wiki/Lakorn">TV drama</a>'s&nbsp;<a href="https://en.wikipedia.org/wiki/BBTV_Channel_7">Channel 7 HD</a>&nbsp;<em>Nai Keun Nao Sang Dao Yung Oun</em>&nbsp;as a backdrop for the story.<sup><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_note-3">[3]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">References</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true,"anchor":"mwig"} -->
+<ol id="mwig" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_ref-BP-20160724_1-0"></a><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_ref-BP-20160724_1-1"></a>&nbsp;Wangkiat, Paritta (24 July 2016).&nbsp;<a href="http://www.bangkokpost.com/news/special-reports/1043173/caught-up-in-a-tourist-trap">"Caught up in a tourist trap"</a>.&nbsp;<em>Bangkok Post</em>. Retrieved&nbsp;24 July&nbsp;2016.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_ref-2"></a>&nbsp;<a href="https://movie.kapook.com/view106882.html">"20 อันดับหนังไทยทำเงินประจำปี 2557"</a>.&nbsp;<a href="https://web.archive.org/web/20150520010517/http://movie.kapook.com:80/view106882.html">Archived</a>&nbsp;from the original on 2015-05-20.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district#cite_ref-3"></a>&nbsp;<a href="http://news.ch7.com/detail/315974">"นักแสดงในคืนหนาว แสงดาวยังอุ่น เผยถึงปมปริศนาในละคร และการไปถ่ายทำที่เชียงคาน&nbsp;: สนามข่าวบันเทิง"</a>&nbsp;[actors and actresses of&nbsp;<em>Nai Keun Nao Sang Dao Yung Oun</em>&nbsp;revealing mystery knot of drama and filming at Chiang Khan].&nbsp;<em>Channel 7 HD</em>&nbsp;(in Thai). 12 December 2018. Retrieved&nbsp;21 January&nbsp;2019.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">External links</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"anchor":"mwrg"} -->
+<ul id="mwrg" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/File:Wikivoyage-Logo-v3-icon.svg"><img height="16" width="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/20px-Wikivoyage-Logo-v3-icon.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="Wikivoyage logo"></a>&nbsp;<a href="https://en.wikivoyage.org/wiki/Chiang%20Khan#Q475387">Chiang Khan</a>&nbsp;travel guide from Wikivoyage</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"anchor":"mwsQ"} -->
+<ul id="mwsQ" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://amphoe.com/menu.php?mid=1&amp;am=568&amp;pv=53">amphoe.com</a>&nbsp;(Thai)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://web.archive.org/web/20131220205502/http://www.chiangkhan.org/">Chiangkhan</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Lalamove">ธุรกิจ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><th class="has-text-align-center" data-align="center" colspan="2"><a href="https://en.wikipedia.org/wiki/Template:Amphoe_Loei"><abbr title="View this template">v</abbr></a><a href="https://en.wikipedia.org/wiki/Template_talk:Amphoe_Loei"><abbr title="Discuss this template">t</abbr></a><a href="https://en.wikipedia.org/wiki/Special:EditPage/Template:Amphoe_Loei"><abbr title="Edit this template">e</abbr></a><a href="https://en.wikipedia.org/wiki/Districts_of_Thailand">Districts</a>&nbsp;of&nbsp;<a href="https://en.wikipedia.org/wiki/Loei_province">Loei</a></th></tr><tr><td colspan="2"><a href="https://en.wikipedia.org/wiki/Mueang_Loei_district">Mueang Loei</a><a href="https://en.wikipedia.org/wiki/Na_Duang_district">Na Duang</a><a href="https://en.wikipedia.org/wiki/Chiang_Khan_district">Chiang Khan</a><a href="https://en.wikipedia.org/wiki/Pak_Chom_district">Pak Chom</a><a href="https://en.wikipedia.org/wiki/Dan_Sai_district">Dan Sai</a><a href="https://en.wikipedia.org/wiki/Na_Haeo_district">Na Haeo</a><a href="https://en.wikipedia.org/wiki/Phu_Ruea_district">Phu Ruea</a><a href="https://en.wikipedia.org/wiki/Tha_Li_district">Tha Li</a><a href="https://en.wikipedia.org/wiki/Wang_Saphung_district">Wang Saphung</a><a href="https://en.wikipedia.org/wiki/Phu_Kradueng_district">Phu Kradueng</a><a href="https://en.wikipedia.org/wiki/Phu_Luang_district">Phu Luang</a><a href="https://en.wikipedia.org/wiki/Pha_Khao_district">Pha Khao</a><a href="https://en.wikipedia.org/wiki/Erawan_district">Erawan</a><a href="https://en.wikipedia.org/wiki/Nong_Hin_district">Nong Hin</a></td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><a href="https://en.wikipedia.org/wiki/File:Thailand_Loei.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Thailand_Loei.png/20px-Thailand_Loei.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="Stub icon" height="30" width="18"></a></td><td>This&nbsp;<a href="https://en.wikipedia.org/wiki/Loei_Province">Loei Province</a>&nbsp;location article is a&nbsp;<a href="https://en.wikipedia.org/wiki/Wikipedia:Stub">stub</a>. You can help Wikipedia by&nbsp;<a href="https://en.wikipedia.org/w/index.php?title=Chiang_Khan_district&amp;action=edit">adding missing information</a>.</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p><a href="https://en.wikipedia.org/wiki/Help:Category">Categories</a>:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Category:Districts_of_Loei_province">Districts of Loei province</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://en.wikipedia.org/wiki/Category:Isan_geography_stubs">Isan geography stubs</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"id":102,"sizeSlug":"large","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><a href="https://ww2.loei.go.th/ebook/detail/40/data.html"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/08/10253.jpg?w=435" alt="" class="wp-image-102"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":98,"sizeSlug":"large","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><a href="https://loei.immigration.go.th/index.php/th-th/"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/09/2_01401209537740652757.png?w=1024" alt="" class="wp-image-98"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted"></pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:image {"id":99,"sizeSlug":"large","linkDestination":"custom","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><a href="https://chiangkhan.loei.police.go.th/"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/09/info-nogift-e0b89ce0b881e0b881-th1831820416963927316.jpg?w=1024" alt="" class="wp-image-99"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"lightbox":{"enabled":false},"id":108,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://mobidrive.com/sharelink/f/4O6oUW6rXgWZyuyWkEfRHV4qxp8ys5UKtMS9YsmHiR6f"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/08/479-1.jpg?w=608" alt="" class="wp-image-108"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"lightbox":{"enabled":false},"id":107,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://mobidrive.com/sharelink/f/4O6oUW6rXgWZyuyWkEfRHV4p8oYmT3zyexO4MzNt7qZd"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/08/481-1.jpg?w=605" alt="" class="wp-image-107"/></a></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:gallery {"linkTo":"none","align":"center"} -->
+<figure class="wp-block-gallery aligncenter has-nested-images columns-default is-cropped"><!-- wp:image {"lightbox":{"enabled":false},"id":111,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="https://mobidrive.com/sharelink/f/4O6oUW6rXgWZyuyWkEfRHV4FB4kWIRyK3ZVAsFOnQGK7"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/08/753.jpg?w=663" alt="" class="wp-image-111"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":112,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://biodieselproductionstation.wordpress.com/wp-content/uploads/2026/09/patch_khaki_green_of_border_patrol_police.svg_.png?w=994" alt="" class="wp-image-112"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;<a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">S/N:25BFA58S08277</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">https://www.facebook.com/v2.10/plugins/like.php?action=like&amp;app_id=1229107057219980&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Dfee2be89e3d9862b7%26domain%3Dblog.nstru.ac.th%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fblog.nstru.ac.th%252Ffa1c1d26580877807%26relation%3Dparent.parent&amp;container_width=0&amp;href=https%3A%2F%2Fblog.nstru.ac.th%2Ftopic%2Fshow%2F8460&amp;layout=button_count&amp;locale=th_TH&amp;sdk=joey&amp;share=false&amp;size=small</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp; &nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>- มาตรฐาน&nbsp;IEEE 802.11a</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;ใช้เทคโนโลยีที่เรียกว่า&nbsp;OFDM (Orthogonal Frequency Division Multiplexing)&nbsp;เพื่อปรับปรุงความเร็วในการส่งข้อมูลให้วิ่งได้สูงถึง&nbsp;54 Mbps&nbsp;บนความถี่&nbsp;5Ghz&nbsp;ซึ่งจะมีคลื่นรบกวนน้อยกว่าความถี่&nbsp;2.4 Ghz&nbsp;ที่มาตรฐานอื่นใช้กัน ที่ความเร็วนี้สามารถทำการแพร่ภาพและข่าวสารที่ต้องการความละเอียดสูงได้ อัตราความเร็วในการรับส่งข้อมูลสามารถปรับระดับให้ช้าลงได้ เพื่อเพิ่มระยะทางการเชื่อมต่อให้มากขึ้นสำหรับ&nbsp;Wireless Lan&nbsp;ที่มีความเร็วในการรับ-ส่งข้อมูลประมาณ&nbsp;54 Mbps&nbsp;ทำงานในย่านความถี่&nbsp;5 GHz&nbsp;สามารถปรับอัตราความเร็วในการรับ-ส่งข้อมูลได้ตามต้องการ ที่สำคัญสามารถใช้ในการรับ-ส่งรูปภาพ วิดีโอ และข้อมูลที่มีความคมชัดสูงได้</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>&nbsp;&nbsp; -&nbsp;มาตรฐาน&nbsp;IEEE 802.11b</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;ใช้เทคโนโลยีที่เรียกว่า&nbsp;CCK (Complimentary Code Keying)&nbsp;ผนวกกับ&nbsp;DSSS (Direct Sequence Spread Spectrum)&nbsp;เพื่อปรับปรุงความสามารถของอุปกรณ์ให้รับส่งข้อมูลได้ด้วยความเร็วสูงสุดที่&nbsp;11 Mbps&nbsp;ผ่านคลื่นวิทยุความถี่&nbsp;2.4 GHz&nbsp;เนื่องจากการใช้คลื่นความถี่ที่ต่ำกว่าอุปกรณ์ที่รองรับมาตรฐาน&nbsp;IEEE 802.11a&nbsp;ทำให้อุปกรณ์ที่ใช้มาตรฐานนี้จะมีความสามารถในการส่งคลื่นสัญญาณไปได้ไกลกว่าคือประมาณ&nbsp;38&nbsp;เมตรในโครงสร้างปิดและ&nbsp;140&nbsp;เมตรในที่โล่งแจ้ง รวมถึง สัญญาณสามารถทะลุทะลวงโครงสร้างตึกได้มากกว่าอุปกรณ์ที่รองรับกับมาตรฐาน&nbsp;IEEE 802.11a&nbsp;อุปกรณ์ที่สามารถทำงานกับคลื่นความถี่นี้ได้จะต้องผ่านการรับรองจากสถาบัน&nbsp;Wireless Alliance&nbsp;เพื่อให้มีมาตรฐานเดียวกันที่ยอมรับได้ โดยมาตรฐานดังกล่าวมีระบบการเข้ารหัสข้อมูลแบบ&nbsp;WEP&nbsp;ที่&nbsp;128&nbsp;บิต สามารถนำไปใช้งานได้ทุกประเทศ โดยไม่จำเป็นต้องขออนุญาต</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11e</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;อมาตรฐานนี้ถูกออกแบบมาใช้สำหรับแอพ&nbsp;VoIP (Voice over IP)&nbsp;โดยเฉพาะ เพื่อให้มีการปรับปรุง&nbsp;MAC Layer&nbsp;ให้มีประสิทธิภาพและควบคุมและรับประกันคุณภาพการใช้งานคลื่นความถี่ตามหลักการ&nbsp;Quality of Service</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11f</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานดังกล่าวได้รับการออกแบบมาเพื่อจัดการผู้ใช้งานที่ข้ามเขตการให้บริการของ&nbsp;Access Point&nbsp;หนึ่งไปยังอีกแห่งหนึ่งเพื่อให้บริการ&nbsp;Roaming&nbsp;สัญญาณระหว่างกัน มีชื่อเรียกอีกอย่างหนึ่งว่า&nbsp;Inter Access Point Protocol (IAPP)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11g</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานชนิดนี้ได้รับการต่อยอดขึ้นมาจากมาตรฐาน&nbsp;802.11b&nbsp;โดยเฉพาะการเพิ่มความเร็วในการรับ-ส่งข้อมูลไปยังระดับ&nbsp;54 Mbps&nbsp;เทียบเท่ากับกับ มาตรฐาน&nbsp;802.11a&nbsp;อย่างไรก็ตาม มาตรฐานนี้ยังคงคลื่นความถี่อยู่ที่&nbsp;2.4 GHz&nbsp;เช่นเดิม รวมทั้งยังเป็นคลื่นความถี่สาธารณะที่ใคร ๆ ก็สามารถใช้ได้โดยไม่จำเป็นต้องขออนุญาต ซึ่งจุดเด่นดังกล่าวก็ทำให้เกิดปัญหาได้เช่นกัน โดยเฉพาะการได้รับสัญญาณรบกวนจากอุปกรณ์ที่ใช้คลื่นความถี่เดียวกัน ส่งผลต่อความเร็วในการรับ-ส่งข้อมูล แตกต่างจาก&nbsp;5 GHz&nbsp;ที่ไม่ค่อยมีคนแย่งสัญญาณจึงทำให้สามารถรับ-ส่งข้อมูลได้อย่างสะดวกรวดเร็วมากยิ่งกว่า</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>- มาตรฐาน&nbsp;IEEE 802.11h</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานชนิดนี้ถูกออกแบบมาใช้สำหรับอุปกรณ์เครือข่ายไร้สายที่ใช้งานย่านความถี่&nbsp;5 GHz&nbsp;เพื่อให้มีความสอดคล้องกับข้อกำหนดการใช้ความถี่ของกลุ่มประเทศในสหภาพยุโรปเป็นหลัก ดังนั้น จึงไม่ค่อยมีความเกี่ยวข้องกับการผู้ใช้งานคลื่นความถี่ภายในประเทศไทยเท่าใดนัก</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11n</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานชนิดนี้ถูกออกแบบมาใช้สำหรับอุปกรณ์เครือข่ายไร้สายที่ใช้งานย่านความถี่&nbsp;2.4 GHz&nbsp;โดยเชิงทฤษฎีสามารถให้อัตราการส่งถ่ายข้อมูลสูงสุดถึง&nbsp;300 Mbps&nbsp;มีความสามารถในการส่งคลื่นสัญญาณ ได้ระยะประมาณ&nbsp;70&nbsp;เมตรในโครงสร้างปิด และ&nbsp;250&nbsp;เมตรในที่โล่งแจ้ง เพิ่มความสามารถในการกันสัญญาณกวนจากอุปกรณ์อื่นๆ ที่ใช้ความถี่&nbsp;2.4GHz&nbsp;เหมือนกัน และสามารถรองรับอุปกรณ์มาตรฐาน&nbsp;IEEE 802.11b&nbsp;และ&nbsp;IEEE 802.11g&nbsp;ได้ ซึ่งจะถูกจำกัดความเร็วตามมาตรฐานนั้น ๆ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11ac</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานดังกล่าวเป็นส่วนขยายที่พัฒนามาจากมาตรฐาน&nbsp;802.11n&nbsp;เพิ่มศักยภาพในการรับ-ส่งข้อมูลได้อย่างมีความรวดเร็วเป็นอย่างมาก ตลอดจนสามารถส่งข้อมูลได้พร้อมกันหลายช่องทางเนื่องจากสัญญาณมีความเสถียรและช่องสัญญาณกว้างมากขึ้น คลื่นความถี่นี้ใช้เทคโนโลยีในการเพิ่ม&nbsp;Channel Bonding&nbsp;จาก&nbsp;40 MHz&nbsp;เป็น&nbsp;80&nbsp;และ&nbsp;160 MHz&nbsp;ส่งผลให้สามารถรับ-ส่งข้อมูลอย่างรวดเร็วมากยิ่งขึ้น นอกจากนั้น ยังเพิ่ม&nbsp;MIMO&nbsp;ให้สามารถรองรับการส่งข้อมูลได้มากถึง&nbsp;8 Spatial Streams&nbsp;ภายในเวลาเดียวกัน ที่สำคัญคือการรับ-ส่งข้อมูลด้วยคลื่นความถี่ตามมาตรฐาน&nbsp;IEEE 802.11ac&nbsp;มีความเร็วสูงสุดมากถึง&nbsp;1.3 Gbps</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"MsoNormal","anchor":"S/N:25BFA58S08277"} -->
+<p class="MsoNormal" id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;&nbsp;&nbsp;</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>-&nbsp;มาตรฐาน&nbsp;IEEE 802.11ax</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;มาตรฐานการเชื่อมต่อไร้สายความเร็วสูง ทำงานบนพื้นฐานคลื่นความถี่&nbsp;2.4GHz&nbsp;และ&nbsp;5GHz&nbsp;เหมือน&nbsp;IEEE 802.11ac&nbsp;แต่ได้รับการออกแบบช่องสัญญาณใหม่ ให้ส่งข้อมูลได้พร้อมกันในช่วงเวลาเดียวกัน โดยจะเรียกว่า&nbsp;OFDA (Orthogonal Frequency Division Access)&nbsp;ในช่วงเวลาเดียวกัน สามารถส่งข้อมูลออกไปพร้อมๆ กันได้หลาย&nbsp;Device&nbsp;ตามทฤษฎีมีความเร็วเพิ่มมากกว่าเดิม&nbsp;4&nbsp;เท่า ทำความเร็วได้มากถึง&nbsp;3.5Gbps</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><strong>IEEE 802.11</strong></a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">&nbsp;คือมาตรฐานการทำงานของ</a><a class="new" href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%A3%E0%B9%89%E0%B8%AA%E0%B8%B2%E0%B8%A2?action=edit&amp;redlink=1">ระบบเครือข่ายไร้สาย</a>กำหนดขึ้นโดย&nbsp;<a class="mw-redirect" href="https://th.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers"><strong>สถาบันวิชาชีพวิศวกรไฟฟ้าและอิเล็กทรอนิกส์</strong></a>&nbsp;(Institute of Electrical and Electronics Engineers: IEEE) เป็นมาตรฐานกลาง ที่ได้นำมาปฏิบัติใช้ เพื่อที่จะทำการเชื่อมโยงอุปกรณ์เครือข่ายไร้สายเข้าด้วยกันบนระบบ ในทางปกติแล้ว การเชื่อมต่อระบบเครือข่ายไร้สาย จำเป็นต้องใช้อุปกรณ์สองชิ้น นั่นคือ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"mwCA"} -->
+<ul id="mwCA" class="wp-block-list"><!-- wp:list-item {"style":{"typography":{"lineHeight":1.51}}} -->
+<li style="line-height:1.51"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%84%E0%B9%80%E0%B8%8B%E0%B8%AA%E0%B8%9E%E0%B8%AD%E0%B8%A2%E0%B8%95%E0%B9%8C">แอคเซสพอยต์</a></a>&nbsp;คือตัวกลางที่ช่วยในการติดต่อระหว่าง ตัวรับ-ส่งสัญญาญไวเลส ของผู้ใช้ กับ เราต์เตอร์ผ่านทางสายนำสัญญาณที่ทำจากทองแดงที่ได้รับการเชื่อมต่อกับระบบเครือข่าย เช่น สายแลนหรือสายโทรศัพท์ ADSL หรือผ่านทางสายใยแก้วนำแสง</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><a class="new" href="https://th.wikipedia.org/wiki/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%9A-%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%AA%E0%B8%B1%E0%B8%8D%E0%B8%8D%E0%B8%B2%E0%B8%93%E0%B9%84%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B8%AA?action=edit&amp;redlink=1">ตัวรับ-ส่งสัญญาณไวเลส</a></a>&nbsp;ทำหน้าที่รับ-ส่ง สัญญาณ ระหว่างตัวรับส่งแต่ละตัวด้วยกันหรือระหว่างตัวลูกข่ายกับแอคเซสพอยต์</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"anchor":"mwDQ"} -->
+<p id="mwDQ"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">หลังจากที่เทคโนโลยีเครือข่ายไร้สายนี้ได้เกิดขึ้น ก็ได้เกิดมาตรฐานตามมาอีกมายมาย โดยที่การจะเลือกซื้อหรือเลือกใช้อุปกรณ์เครือข่ายไร้สายเหล่านั้น เราจำเป็นจะต้องคำนึงถึงเทคโนโลยีที่ใช้ในผลิตภัณฑ์นั้น ๆ รวมถึงความเข้ากันได้ของเทคโนโลยีที่ต่าง ๆ ด้วย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"ประวัติ"} -->
+<h2 id="ประวัติ" class="wp-block-heading">ประวัติ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">เทคโนโลยี 802.11 มีต้นกำเนิดในปี&nbsp;</a><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%84.%E0%B8%A8._1985">ค.ศ. 1985</a>&nbsp;กำหนดขึ้นโดยคณะกรรมการการสื่อสารแห่งชาติสหรัฐอเมริกา (<a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B8%AD%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A4%E0%B8%A9">อังกฤษ</a>:&nbsp;<em>U.S. Federal Communications Commission</em>) หรือ FCC ที่ประกาศช่วงความถี่สำหรับกิจการด้านอุตสาหกรรม วิทยาศาสตร์และการแพทย์ (ISM) สำหรับการใช้งานที่ไม่ต้องมีใบอนุญาต<sup class="mw-ref reference"><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_note-1">[1]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">ในปี&nbsp;</a><a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%84.%E0%B8%A8._1991">ค.ศ. 1991</a>&nbsp;บริษัท เอ็นซีอาร์/เอทีแอนด์ที (ตอนนี้เป็น Alcatel-Lucent และ LSI คอร์ปอเรชั่น) ได้สร้างชุดตั้งต้นของ 802.11 ในเมือง Nieuwegein, เนเธอร์แลนด์ ตอนแรกนักประดิษฐ์ตั้งใจจะใช้เทคโนโลยีนี้สำหรับระบบเก็บเงิน ผลิตภัณฑ์ไร้สายตัวแรกที่ถูกนำออกสู่ตลาดอยู่ภายใต้ชื่อ WaveLAN ที่มีอัตราข้อมูลดิบของ 1 Mbit/s และ 2 Mbit/s</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">วิก เฮย์สผู้เป็นประธานของ IEEE 802.11 เป็นเวลา 10 ปีและถูกเรียกว่า "บิดาแห่ง Wi-Fi" ได้มีส่วนร่วมในการออกแบบ 802.11b และ 802.11a มาตรฐานเริ่มต้นภายใน IEEE</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><sup class="mw-ref reference"></sup></a><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_note-2">[2]</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"anchor":"mwHg"} -->
+<p id="mwHg">ในปี&nbsp;<a class="mw-redirect" href="https://th.wikipedia.org/wiki/%E0%B8%84.%E0%B8%A8._1999">ค.ศ. 1999</a>, Wi-Fi Alliance ถูกจัดตั้งขึ้นเป็นสมาคมการค้าเจ้าของเครื่องหมายการค้า Wi-Fi ซึ่งผลิตภัณฑ์ส่วนใหญ่ที่ใช้ Wi-Fi จะมีเครื่องหมายนี้<sup class="mw-ref reference"><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_note-3">[3]</a></sup></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"anchor":"มาตรฐานที่อยู่ภายใต้_กรอบของเทคโนโลยี_IEEE_802.11"} -->
+<h2 id="มาตรฐานที่อยู่ภายใต้_กรอบของเทคโนโลยี_IEEE_802.11" class="wp-block-heading">มาตรฐานที่อยู่ภายใต้ กรอบของเทคโนโลยี IEEE 802.11</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">ปัจจุบันนี้มีมาตรฐานออกมาหลายอย่าง แต่ที่ได้รับความนิยมทั้งในอดีตและปัจจุบันนั้น แบ่งออกเป็น 7 มาตรฐานด้วยกัน ได้แก่</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"mwJg"} -->
+<ul id="mwJg" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">IEEE 802.11a - เสร็จสมบูรณ์เมื่อปี ค.ศ. 1999 โดยออกเผยแพร่ช้ากว่าของมาตรฐาน IEEE 802.11b ใช้เทคโนโลยีที่เรียกว่า OFDM (Orthogonal Frequency Division Multiplexing) เพื่อปรับปรุงความเร็วในการส่งข้อมูลให้วิ่งได้สูงถึง 54 Mbps บนความถี่ 5Ghz ซึ่งจะมีคลื่นรบกวนน้อยกว่าความถี่ 2.4 Ghz ที่มาตรฐานอื่นใช้กัน ที่ความเร็วนี้สามารถทำการแพร่ภาพและข่าวสารที่ต้องการความละเอียดสูงได้ อัตราความเร็วในการรับส่งข้อมูลสามารถปรับระดับให้ช้าลงได้ เพื่อเพิ่มระยะทางการเชื่อมต่อให้มากขึ้น แต่ทว่าข้อเสียก็คือ ความถี่ 5 Ghz นั้น หลาย ๆ ประเทศไม่อนุญาตให้ใช้ เช่น ประเทศไทย เพราะได้จัดสรรให้อุปกรณ์ประเภทอื่นไปแล้ว และเนื่องด้วยการที่มาตรฐานนี้ ใช้การเชื่อมต่อที่ความถี่สูง ๆ ทำให้มาตรฐานนี้ มีระยะการรับส่งที่ค่อนข้างใกล้ คือ ประมาณ 35 เมตร ในโครงสร้างปิด (เช่น ในตึก ในอาคาร) และ 120 เมตรในที่โล่งแจ้งและด้วยความที่ส่งข้อมูลด้วยความถี่สูงนี้ ทำให้การส่งข้อมูลนั้นไม่สามารถทะลุทะลวงโครงสร้างของตึกได้มากนัก อุปกรณ์ไร้สายที่รองรับเทคโนโลยี IEEE 802.11a นี้ไม่สามารถเข้ากันได้กับอุปกรณ์ที่รองรับมาตรฐาน IEEE 802.11b และ IEEE 802.11g ที่จะอธิบายด้านล่างนี้ได้ อีกทั้งอุปกรณ์ของ IEEE 802.11a ยังมีราคาสูงกว่า IEEE 802.11b ด้วย ดังนั้นอุปกรณ์ IEEE 802.11a จึงได้รับความนิยมน้อยกว่า IEEE 802.11b มาก จึงทำให้ไม่ค่อยเป็นที่ได้รับความนิยมเท่าที่ควร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><a class="mw-redirect" href="https://th.wikipedia.org/wiki/IEEE_802.11b">IEEE 802.11b</a></a>&nbsp;- เสร็จสมบูรณ์เมื่อปี ค.ศ. 1999 ใช้เทคโนโลยีที่เรียกว่า CCK (Complimentary Code Keying) ผนวกกับ DSSS (Direct Sequence Spread Spectrum) เพื่อปรับปรุงความสามารถของอุปกรณ์ให้รับส่งข้อมูลได้ด้วยความเร็วสูงสุดที่ 11 Mbps ผ่านคลื่นวิทยุความถี่ 2.4 GHz เนื่องจากการใช้คลื่นความถี่ที่ต่ำกว่าอุปกรณ์ที่รองรับมาตรฐาน IEEE 802.11a ทำให้อุปกรณ์ที่ใช้มาตรฐานนี้จะมีความสามารถในการส่งคลื่นสัญญาณไปได้ไกลกว่าคือประมาณ 38 เมตรในโครงสร้างปิดและ 140 เมตรในที่โล่งแจ้ง รวมถึงสัญญาณสามารถทะลุทะลวงโครงสร้างตึกได้มากกว่าอุปกรณ์ที่รองรับกับมาตรฐาน IEEE 802.11a ด้วย ปัจจุบันผลิตภัณฑ์อุปกรณ์เครือข่ายไร้สายภายใต้มาตรฐานนี้ได้รับการผลิตออกมาเป็นจำนวนมาก โดยอุปกรณ์ที่ใช้ความถี่ย่านนี้ เช่น IEEE 802.11, Bluetooth, โทรศัพท์ไร้สาย และเตาไมโครเวฟ และที่สำคัญแต่ละผลิตภัณฑ์มีความสามารถทำงานร่วมกันได้ อุปกรณ์ของผู้ผลิตทุกยี่ห้อต้องผ่านการตรวจสอบจากสถาบัน Wi-Fi Alliance เพื่อตรวจสอบมาตรฐานของอุปกรณ์และความเข้ากันได้ของแต่ละผู้ผลิต ปัจจุบันนี้นิยมนำอุปกรณ์ WLAN ที่มาตรฐาน 802.11b ไปใช้ในองค์กรธุรกิจ สถาบันการศึกษา สถานที่สาธารณะ และกำลังแพร่เข้าสู่สถานที่พักอาศัยมากขึ้น มาตรฐานนี้มีระบบเข้ารหัสข้อมูลแบบ WEP ที่ 128 บิต</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">IEEE 802.11g - เสร็จสมบูรณ์ในปี ค.ศ. 2003 ทางคณะทำงาน IEEE 802.11g ได้นำเอาเทคโนโลยี OFDM ของ 802.11a มาพัฒนาบนความถี่ 2.4 Ghz จึงทำให้ใช้ความเร็ว 36-54 Mbps ซึ่งเป็นความเร็วที่สูงกว่ามาตรฐาน 802.11b ซึ่ง 802.11g สามารถปรับระดับความเร็วในการสื่อสารลงเหลือ 2 Mbps ได้ตามสภาพแวดล้อมของเครือข่ายที่ใช้งาน มาตรฐานนี้เป็นที่ยอมรับจากผู้ใช้เป็นจำนวนมากและกำลังจะเข้ามาแทนที่ 802.11b ในอนาคตอันใกล้</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"anchor":"mwKw"} -->
+<p id="mwKw"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">นอกจากที่กล่าวมาข้างต้นนี้มีบางผลิตภัณฑ์ใช้เทคโนโลยีเฉพาะตัวเข้ามาเสริม ทำให้ความเร็วเพิ่มขึ้นจาก 54 Mbps เป็น 108 Mbps แต่ต้องทำงานร่วมกันเฉพาะอุปกรณ์ที่ผลิตจากบริษัทเดียวกันเท่านั้น ซึ่งความสามารถนี้เกิดจากชิป (Chip) กระจายสัญญาณของตัวอุปกรณ์ที่ผู้ผลิตบางรายสามารถเพิ่มประสิทธิภาพการรับส่ง สัญญาณเป็น 2 เท่าของการรับส่งสัญญาณได้แต่ปัญหาของการกระจายสัญญาณนี้จะมีผลทำให้อุปกรณ์ ไร้สายในมาตรฐาน 802.11b มีประสิทธิภาพลดลงด้วยเช่นกัน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"mwLA"} -->
+<ul id="mwLA" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">IEEE 802.11n - เสร็จสมบูรณ์ในปี ค.ศ. 2009 ทำงานบนย่านความถี่ 2.4 GHz โดยเชิงทฤษฎีสามารถให้</a><a href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5">อัตราการส่งถ่ายข้อมูล</a>สูงสุดถึง 300 Mbps มีความสามารถในการส่งคลื่นสัญญาณ ได้ระยะประมาณ 70 เมตรในโครงสร้างปิด และ 250 เมตรในที่โล่งแจ้ง เพิ่มความสามารถในการกันสัญญาณกวนจากอุปกรณ์อื่น ๆ ที่ใช้ความถี่ 2.4 GHz เหมือนกัน และสามารถรองรับอุปกรณ์มาตรฐาน IEEE 802.11b และ IEEE 802.11g ได้ ซึ่งจะถูกจำกัดความเร็วตามมาตรฐานนั้น ๆ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">802.11-2012 - ในปี 2007 กลุ่มงาน TGmb ได้รับการอนุมัติให้รวบรวมการแก้ไขทั้งหมดให้เป็นเวอร์ชันที่เรียกว่า REVmb หรือ 802.11mb ที่ประกอบด้วย 802.11k, r, y, n, w, p, z, v, u, s ตีพิมพ์วันที่ 29 มีนาคม 2012</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">802.11ac - เป็นมาตรฐานที่ 5 GHz ให้ทรูพุทกับแลนไร้สายแบบหลายสถานีสูงกว่าที่อย่างน้อย 1 Gbps และสำหรับลิงก์เดี่ยวที่อย่างน้อย 500 Mbps โดยการใช้ RF แบนด์วิธที่กว้างกว่า (80 หรือ 160 MHz) สตรีมมากกว่า (สูงถึง 8 สตรีม) และมอดูเลทที่ความจุสูงกว่า (สูงถึง 256 QAM)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">802.11ad - หรือ "WiGig" เกิดจากการผลักดันจากผู้ผลิตฮาร์ดแวร์ ในวันที่ 24 กรกฎาคม 2012 Marvell และ Wilocity ได้ประกาศการเป็นคู่ค้าใหม่เพื่อนำ Wi-Fi solution แบบ tri-band ใหม่ออกสู่ตลาด โดยการใช้ความถี่ที่ 60 GHz ทรูพุททางทฤษฎีสูงสุดถึง 7 Gbps มาตรฐานนี้จะออกสู่ตลาดได้ราวต้นปี 2014</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">802.11ax - เสร็จสมบูรณ์ในปี ค.ศ. 2021 โดยมาตรฐานนี้ถูกใช้ใน WIFI 6 ซึ่งทำงานควบคู่ขนานระหว่าง 2.4 GHz และ 5 GHz และ WIFI 6E ซึ่งทำงานในย่านความถี่ 6 GHz รองรับผู้ใช้มากขึ้น ในเชิงทฤษฎีสามารถส่งข้อมูลได้ถึง 9.6 Gbps</a><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf"><sup class="mw-ref reference"><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_note-4">[4]</a></sup></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph {"anchor":"S/N:25BFA58S08277"} -->
+<p id="S/N:25BFA58S08277"><a href="http://cetest01.ufile.ucloud.com.cn/100001_1901195006/T60_Users_Manual1567587402707.pdf">2066- | rowspan="2" |&nbsp;a&nbsp;| rowspan="2" |Sep 1999 | 5 | rowspan="2" |20 | rowspan="2" |6, 9, 12, 18, 24, 36, 48, 54 | rowspan="2" |1 | rowspan="2" |OFDM35115- | 3.7<sup class="citation nobold">[A]</sup>&nbsp;| ——5,000 |style="text-align:right;"|16,000<sup class="citation nobold">[A]</sup>&nbsp;|- |&nbsp;b&nbsp;| Sep 1999 | 2.4 | 20 | 1, 2, 5.5, 11 | 1 |&nbsp;DSSS35115- |&nbsp;g&nbsp;| Jun 2003 | 2.4 | 20 | 6, 9, 12, 18, 24, 36, 48, 54 | 1 |&nbsp;OFDM,&nbsp;DSSS38125- | rowspan="2" |&nbsp;n&nbsp;| rowspan="2" | Oct 2009 | rowspan="2" | 2.4/5 | 20 | 7.2, 14.4, 21.7, 28.9, 43.3, 57.8, 65, 72.2<sup class="citation nobold">[B]</sup>&nbsp;| rowspan="2" | 4 | rowspan="6" |&nbsp;OFDM70230- | 40 | 15, 30, 45, 60, 90, 120, 135, 150<sup class="citation nobold">[B]</sup>70230- | rowspan="4" |&nbsp;ac&nbsp;| rowspan="4" | Dec 2012 | rowspan="4" | 5 | 20 | up to 87.6<sup class="mw-ref reference">[7]</sup>&nbsp;| rowspan="4" | 8 | | | | |- | 40 | up to 200<sup class="mw-ref reference">[7]</sup>&nbsp;| | | | |- | 80 | up to 433.3<sup class="mw-ref reference">[7]</sup>&nbsp;| | | | |- | 160 | up to 866.7<sup class="mw-ref reference">[7]</sup>&nbsp;| | | | |- |&nbsp;ad&nbsp;| ~Feb 2014 | 2.4/5/60 | | up to 6912 (6.75Gb/s)&nbsp;<sup class="mw-ref reference">[8]</sup>&nbsp;| | | | | | |}<strong><sup>A1A2</sup></strong>IEEE 802.11y-2008&nbsp;ส่วนขยายของ 802.11a ให้เป็นแถบความถี่ 3.7&nbsp;GHz ข้อจำกัดของกำลังที่เพิ่มขึ้นจะสูงถึง 5,000&nbsp;m.&nbsp;ข้อมูลเมื่อ 2009, ใช้เฉพาะในสหรัฐฯเท่านั้นโดย FCC</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"mwmw"} -->
+<ul id="mwmw" class="wp-block-list"><!-- wp:list-item -->
+<li><a class="mw-selflink-fragment" href="https://th.wikipedia.org/wiki/IEEE_802.11#ref_80211ns_sgiB1"><strong><sup>B1</sup></strong></a>&nbsp;<a class="mw-selflink-fragment" href="https://th.wikipedia.org/wiki/IEEE_802.11#ref_80211ns_sgiB2"><strong><sup>B2</sup></strong></a>&nbsp;เมื่อ enable short&nbsp;<a class="new" href="https://th.wikipedia.org/wiki/Guard_interval?action=edit&amp;redlink=1">guard interval</a>&nbsp;(SGI) มิฉะนั้นแต่ละ data rate จะลดลง 10%</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true,"className":"mw-references references","anchor":"mwoQ"} -->
+<ol id="mwoQ" class="wp-block-list mw-references references"><!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-1"></a>Wolter Lemstra, Vic Hayes, John Groenewegen, The Innovation Journey of Wi-Fi: The Road To Global Success, Cambridge University Press, 2010,&nbsp;<a class="internal mw-magiclink mw-magiclink-isbn" href="https://th.wikipedia.org/wiki/Special:BookSources/0521199719">ISBN 0-521-19971-9</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-2"></a>[<a class="external autonumber" href="https://news.cnet.com/1200-1070-975460.html"></a><a class="external text" href="https://web.archive.org/web/20120826164642/http://news.cnet.com/1200-1070-975460.html">เก็บถาวร</a>&nbsp;2012-08-26 ที่&nbsp;<a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%A7%E0%B8%A2%E0%B9%8C%E0%B9%81%E0%B8%9A%E0%B9%87%E0%B8%81%E0%B9%81%E0%B8%A1%E0%B8%8A%E0%B8%8A%E0%B8%B5%E0%B8%99">เวย์แบ็กแมชชีน</a>]</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-3"></a>"Wi-Fi Alliance: Organization". Official industry association web site. Retrieved August 23, 2011.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-4"></a>Allan Johnson. (2020). Wireless Standards. In Editor Mark Taub (Eic.),&nbsp;<em>31 Days Before</em>&nbsp;<em>Your CCNA Exam (200-301): A Day-By-Day Review Guide for the CCNA 200-301</em>&nbsp;<em>Certification Exam.</em>&nbsp;&nbsp;(pp.151-152). Cisco Press.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="new" href="https://th.wikipedia.org/wiki/Official_IEEE_802.11_working_group_project_timelines?action=edit&amp;redlink=1">Official IEEE 802.11 working group project timelines</a>&nbsp;September 19, 2009. Retrieved 2009-10-09.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="external text" href="http://www.wi-fiplanet.com/tutorials/article.php/3680781">"802.11n Delivers Better Range"</a>.&nbsp;<em>Wi-Fi Planet</em>. 2007-05-31.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-80211ac_Whitepaper_05112012_7-0"></a><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-80211ac_Whitepaper_05112012_7-1"></a><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-80211ac_Whitepaper_05112012_7-2"></a><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-80211ac_Whitepaper_05112012_7-3"></a>&nbsp;<a class="external text" href="https://web.archive.org/web/20161010070147/https://www.qualcomm.com/media/documents/files/ieee802-11ac-the-next-evolution-of-wi-fi.pdf">"IEEE802.11ac: The Next Evolution of Wi-Fi Standards"</a>&nbsp;(PDF). 2012-05-11. ข้อมูลเก่าจาก<a class="external text" href="http://www.qualcomm.com/media/documents/files/ieee802-11ac-the-next-evolution-of-wi-fi.pdf">ต้นฉบับ</a>&nbsp;(PDF)&nbsp;เมื่อ 2016-10-10. สืบค้นเมื่อ&nbsp;2012-05-16.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://th.wikipedia.org/wiki/IEEE_802.11#cite_ref-8"></a><a class="external text" href="http://arxiv.org/ftp/arxiv/papers/1211/1211.7356.pdf">"WiGig and IEEE 802.11ad For Multi-Gigabyte-Per-Second WPAN and WLAN"</a>&nbsp;(PDF). Tensorcom Inc.</li>
+<!-- /wp:list-item --></ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"anchor":"อ้างอิง"} -->
+<h2 id="อ้างอิง" class="wp-block-heading">อ้างอิง</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"anchor":"mw4g"} -->
+<p id="mw4g">Cisco CCNA Exploration 4.0 Network Fundamental</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88">หมวดหมู่</a>:&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a class="new" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B8%A5%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%A1%E0%B8%B1%E0%B8%A2%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88_2009&amp;action=edit&amp;redlink=1">บทความที่มีข้อความที่อาจล้าสมัยตั้งแต่ 2009</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="new" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:Computer_networking_templates&amp;action=edit&amp;redlink=1">Computer networking templates</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="new" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:Computer_hardware_templates&amp;action=edit&amp;redlink=1">Computer hardware templates</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
 <!-- wp:paragraph -->
 <p><a href="https://learn.microsoft.com/th-th/docs/#main" class="outline-color-text visually-hidden-until-focused position-fixed inner-focus focus-visible top-0 left-0 right-0 padding-xs text-align-center background-color-body">ข้ามไปยังเนื้อหาหลัก</a></p>
 <!-- /wp:paragraph -->
