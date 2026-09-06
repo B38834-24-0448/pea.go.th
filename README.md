@@ -2,6 +2,109 @@
 # https://github.com/B38834-24-0448?tab=repositories
 # https://biodieselproductionstation.wordpress.com/
 # https://www.wikidata.org/wiki/Q5296#sitelinks-wikipedia
+<!-- wp:paragraph -->
+<p>Our Projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Our projects are the core of the&nbsp;<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_movement">Wikimedia movement</a>. All major projects are operated by the&nbsp;<a href="https://wikimediafoundation.org/">Wikimedia Foundation</a>, and the content is collaboratively developed by over 260,000 users worldwide using the&nbsp;<a href="https://www.mediawiki.org/">MediaWiki</a>&nbsp;software.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>อ้างอิง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikipedia-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wiktionary-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikiquote-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikibooks-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.wikipedia.org/" class="project-wrapper">วิกิพีเดียสารานุกรมเสรี</a><a href="https://www.wiktionary.org/" class="project-wrapper">วิกิพจนานุกรมพจนานุกรมเสรี</a><a href="https://www.wikiquote.org/" class="project-wrapper">วิกิคำคมแหล่งรวบรวมคำคมเสรี</a><a href="https://www.wikibooks.org/" class="project-wrapper">วิกิตำราหนังสือตำราเสรี</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Collections</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Commons-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikisource-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikiversity-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikispecies-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://commons.wikimedia.org/" class="project-wrapper">คอมมอนส์รวบรวมสื่อเสรี</a><a href="https://www.wikisource.org/" class="project-wrapper">วิกิซอร์ซห้องสมุดเนื้อหาเสรี</a><a href="https://www.wikiversity.org/" class="project-wrapper">วิกิวิทยาลัยทรัพยากรการเรียนรู้เสรี</a><a href="https://www.wikispecies.org/" class="project-wrapper">วิกิสปีชีส์อนุกรมวิธานเสรี</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Technology</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikidata-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikifunctions-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/MediaWiki-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.wikidata.org/" class="project-wrapper">วิกิสนเทศฐานความรู้เสรี</a><a href="https://www.wikifunctions.org/" class="project-wrapper">วิกิฟังก์ชันห้องสมุดฟังก์ชันเสรี</a><a href="https://www.mediawiki.org/" class="project-wrapper">มีเดียวิกิวิกิซอฟต์แวร์เสรีและเปิด</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Guides</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Wikivoyage-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.wikivoyage.org/" class="project-wrapper">วิกิท่องเที่ยวคู่มือเดินทางเสรี</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Collaboration</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.wikimedia.org/portal/wikimedia.org/assets/img/Meta-Wiki-logo_sister.svg" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://meta.wikimedia.org/" class="project-wrapper">เมทาวิกิเอกสารและการประสานงานชุมชน</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The&nbsp;<a href="https://wikimediafoundation.org/">Wikimedia Foundation</a>&nbsp;is the non-profit organization that hosts all Wikimedia projects and supports communities all over the world who create and curate freely accessible content.</p>
+<!-- /wp:paragraph -->
 <!-- wp:table -->
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td class="has-text-align-center" data-align="center"><a href="https://en.wikipedia.org/wiki/File:Question_book-new.svg"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="icon" height="39" width="50"></a></td><td>This article&nbsp;<strong>needs&nbsp;<a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability">more citations</a></strong>.&nbsp;Please help&nbsp;<a href="https://en.wikipedia.org/wiki/Special:EditPage/Chiang_Khan_district">improve this article</a>&nbsp;by&nbsp;<a href="https://en.wikipedia.org/wiki/Help:Referencing_for_beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and&nbsp;<a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Burden_of_evidence">removed</a>.<br><small><em>Find sources:</em>&nbsp;<a href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Chiang+Khan+district%22">"Chiang Khan district"</a>&nbsp;–&nbsp;<a href="https://www.google.com/search?tbm=nws&amp;q=%22Chiang+Khan+district%22+-wikipedia&amp;tbs=ar:1">news</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.google.com/search?&amp;q=%22Chiang+Khan+district%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.google.com/search?tbs=bks:1&amp;q=%22Chiang+Khan+district%22+-wikipedia">books</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://scholar.google.com/scholar?q=%22Chiang+Khan+district%22">scholar</a>&nbsp;<strong>·</strong>&nbsp;<a href="https://www.jstor.org/action/doBasicSearch?Query=%22Chiang+Khan+district%22&amp;acc=on&amp;wc=on">JSTOR</a></small>&nbsp;<em>(July 2016)</em><em>&nbsp;(<small><a href="https://en.wikipedia.org/wiki/Help:Maintenance_template_removal">Learn how and when to remove this message</a></small>)</em></td></tr></tbody></table></figure>
 <!-- /wp:table -->
