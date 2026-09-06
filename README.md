@@ -1,3 +1,239 @@
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="navbar-brand" href="https://www.geekbench.com/"><img src="https://www.geekbench.com/img/parkdale/logo-light.svg" alt="Geekbench"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:list {"className":"navbar-nav "} -->
+<ul class="wp-block-list navbar-nav"><!-- wp:list-item -->
+<li><a class="nav-link" href="https://browser.geekbench.com/">เบราว์เซอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="nav-link" href="https://store.primatelabs.com/">ร้านค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="nav-link" href="https://www.geekbench.com/blog/">บล็อก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="nav-link" href="http://support.primatelabs.com/">การสนับสนุน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":1,"className":"post-title"} -->
+<h1 class="wp-block-heading post-title">กีคเบนช์ 7</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"post-meta"} -->
+<p class="post-meta">23 กรกฎาคม 2026&nbsp;-&nbsp;จอห์น พูล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="https://www.geekbench.com/img/blog/2026/parkdale-windows-screenshot.jpeg" alt="Geekbench 7 for Windows screenshot"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.geekbench.com/">กีคเบนช์ 7</a>, รุ่นล่าสุดของมาตรฐานข้ามแพลตฟอร์ม Primate Labs’, มาถึงแล้วและมีทั้งปริมาณงานใหม่และปรับปรุงเพื่อวัดประสิทธิภาพของ CPU และ GPU ของคุณ Geekbench 7 คือ&nbsp;<a href="https://www.geekbench.com/download/">พร้อมให้ดาวน์โหลด</a>&nbsp;วันนี้สําหรับ&nbsp;<a href="https://play.google.com/store/apps/details?id=com.primatelabs.parkdale">แอนดรอยด์</a>,&nbsp;<a href="https://apps.apple.com/us/app/geekbench-7/id6789655014">ไอโอเอส</a>,&nbsp;<a href="https://www.geekbench.com/download/windows/">วินโดวส์</a>,&nbsp;<a href="https://www.geekbench.com/download/mac/">มาคอส</a>, และ&nbsp;<a href="https://www.geekbench.com/download/linux/">ลินุกซ์</a>●Geekbench 7 บน Windows 11</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="new-media-workloads">ปริมาณงานสื่อใหม่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Geekbench 7 มีปริมาณงานสื่อใหม่ที่วัดว่า CPU ของคุณจัดการกับการเข้ารหัส การถอดรหัส และการประมวลผลเสียงและวิดีโอได้ดีเพียงใด ปริมาณงานจําลองงานเบื้องหลังการประชุมทางวิดีโอ การแชร์หน้าจอ และการใช้เนื้อหาในชีวิตประจําวัน ปริมาณงานใหม่เหล่านี้:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>เข้ารหัสวิดีโอแชร์หน้าจอด้วยตัวแปลงสัญญาณ AV1 สร้างแบบจําลองคุณสมบัติการแชร์หน้าจอในแอปการประชุมทางวิดีโอ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>บีบอัดเพลงและเสียงคําพูดด้วยตัวแปลงสัญญาณ Opus การสร้างแบบจําลองบันทึกเสียงและแอปพอดแคสต์</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ถอดรหัสวิดีโอและเสียงในขณะที่สร้างคําบรรยายสดด้วยโมเดลการรู้จําเสียงกระซิบ สร้างแบบจําลองการเล่นวิดีโอโดยเปิดใช้งานคําบรรยายอัตโนมัติ</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>นอกเหนือจากปริมาณงานสื่อใหม่แล้ว Geekbench 7 ยังเพิ่มปริมาณงาน Game Physics ที่สร้างขึ้นบนกลไก Jolt Physics ที่ใช้ในวิดีโอเกมยอดนิยม ขยายปริมาณงาน Photo Editor ด้วยชุดการแก้ไขในโลกแห่งความเป็นจริงที่สมบูรณ์ยิ่งขึ้น และอัปเดตปริมาณงาน Photo Library เพื่อรองรับการนําเข้าและ การประมวลผลรูปแบบภาพสมัยใหม่ เช่น JPEG XL และ DNG</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="a-smarter-multi-core-benchmark">เกณฑ์มาตรฐาน Multi-Core ที่ชาญฉลาดยิ่งขึ้น</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>เกณฑ์มาตรฐานแบบมัลติคอร์ใน Geekbench 7 ได้รับการออกแบบใหม่เพื่อให้สะท้อนถึงพฤติกรรมของแอปพลิเคชันจริงได้ดียิ่งขึ้น ไม่ใช่ทุกงานในโลกแห่งความเป็นจริงที่มีหลายเธรด และการแสร้งทําเป็นบิดเบือนคะแนนโดยไม่บอกอะไรที่เป็นประโยชน์เกี่ยวกับอุปกรณ์ของคุณ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ใน Geekbench 7 ปริมาณงานจะทํางานในโหมดมัลติเธรดเท่านั้น หากงานที่โมเดลนั้นรันมัลติเธรดในแอปพลิเคชันจริง ตัวอย่างเช่น การทดสอบเบราว์เซอร์ HTML5 ไม่รวมอยู่ในชุดมัลติเธรด เนื่องจากเว็บเบราว์เซอร์เป็นแบบเธรดเดียว (หรือแบบเธรดเล็กน้อย)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ผลลัพธ์ที่ได้คือคะแนนแบบมัลติคอร์ซึ่งเป็นการวัดที่แม่นยํายิ่งขึ้น มีประโยชน์มากขึ้น และมีความเกี่ยวข้องมากขึ้นว่าอุปกรณ์ของคุณทํางานที่คุณทําจริงอย่างไร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="a-refreshed-gpu-benchmark">เกณฑ์มาตรฐาน GPU ที่ได้รับการปรับปรุงใหม่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>เกณฑ์มาตรฐาน GPU มุ่งเน้นไปที่การเรียนรู้ของเครื่องและแอปพลิเคชันการสร้างเนื้อหาที่กําหนดประสิทธิภาพของ GPU มากขึ้น สําหรับการเรียนรู้ของเครื่อง เกณฑ์มาตรฐาน GPU รวมถึงปริมาณงานที่:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ติดตามใบหน้าและใช้เอฟเฟกต์ตัวกรองแบบเรียลไทม์กับวิดีโอ สร้างแบบจําลองตัวกรองใบหน้าในแอปโซเชียลมีเดีย</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ภาพอัปสเกลพร้อมแมชชีนเลิร์นนิง การสร้างแบบจําลองคุณสมบัติความละเอียดสูงในแอปสร้างเนื้อหา</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>พื้นหลังเบลอในสตรีมการประชุมทางวิดีโอ การสร้างแบบจําลองคุณสมบัติพื้นหลังเสมือนในแอปการประชุมทางวิดีโอ</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Geekbench 7 ยังแนะนําเวิร์กโหลดการแก้ไขและสังเคราะห์ภาพ GPU ใหม่ รวมถึงการประมวลผลภาพ RAW การจัดระดับสีวิดีโอตาม LUT การติดตามเส้นทาง และการจําลองแบบไหล</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>และด้วยความต้องการที่ได้รับความนิยม CUDA จึงเข้าร่วม OpenCL, Vulkan และ Metal ในฐานะ API ที่รองรับใน GPU Benchmark ตอนนี้คุณสามารถวัด NVIDIA GPU ของคุณได้โดยใช้ API ที่ขับเคลื่อนแอปพลิเคชันที่มีความต้องการมากที่สุด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="larger-data-sets">ชุดข้อมูลขนาดใหญ่ขึ้น</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>นับตั้งแต่เปิดตัว Geekbench 6 งานที่ผู้คนทําก็ต้องใช้กําลังมากขึ้น และชุดข้อมูลที่พวกเขาใช้ก็มีขนาดใหญ่ขึ้นและมีความต้องการมากขึ้น เพื่อสะท้อนถึงสิ่งนี้ เราได้อัปเดตชุดข้อมูลกระบวนการเวิร์กโหลดเพื่อให้อุปกรณ์ของคุณมีความท้าทายมากขึ้นและสะท้อนไฟล์ที่ผู้คนทํางานด้วยในปัจจุบันได้ดียิ่งขึ้น ซึ่งรวมถึง:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>ไฟล์เก็บถาวรมากขึ้น (และหลากหลายมากขึ้น) ในปริมาณงานการบีบอัดไฟล์ ซึ่งครอบคลุมซอร์สโค้ด ออบเจ็กต์โค้ด และเอกสารข้อความ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>เอกสารเพิ่มเติม (และหลากหลายมากขึ้น) ในปริมาณงาน PDF Viewer ตั้งแต่แผนที่อุทยาน เอกสารทางเทคนิค ไปจนถึงเอกสารทางวิชาการ</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>สินทรัพย์เพิ่มเติมและรูปแบบภาพที่แตกต่างกันตลอดทั้งนักพัฒนาและปริมาณงานการประมวลผลภาพ</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading" id="launch-sale">เปิดตัวการขาย</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Geekbench 7 ฟรี (และจะยังคงฟรี) สําหรับการใช้งานส่วนตัว ดาวน์โหลดวันนี้และดูว่าอุปกรณ์ของคุณวัดผลอย่างไร</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เรากําลังเฉลิมฉลองการเปิดตัวด้วย&nbsp;<a href="https://store.primatelabs.com/v7"><strong>ส่วนลด 20%</strong>&nbsp;Geekbench 7 โปร</a>&nbsp;บน&nbsp;<a href="https://store.primatelabs.com/v7">ร้านไพรเมตแล็บส์</a>&nbsp;จนกระทั่ง&nbsp;<strong>สิงหาคม 6</strong>● ไม่ว่าคุณจะเป็นผู้ชื่นชอบเทคโนโลยีในการค้นคว้าการอัพเกรดครั้งต่อไปหรือผู้เชี่ยวชาญด้านไอทีที่จัดการกลุ่มเครื่องจักร ไม่มีเวลาใดที่จะดีไปกว่านี้ในการค้นหาว่าฮาร์ดแวร์ของคุณสามารถทําอะไรได้บ้าง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a href="https://www.geekbench.com/"><img src="https://www.geekbench.com/img/parkdale/logo-light.svg" alt="Geekbench"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph {"className":"small"} -->
+<p class="small">ลิขสิทธิ์ © 2004-2026&nbsp;<a href="https://www.primatelabs.com/">ไพรเมต แล็บส์ อิงค์</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">ผลิตภัณฑ์</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.geekbench.com/">กีคเบนช์ 7</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.geekbench.com/ai/">กีคเบนช์ เอไอ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">การสนับสนุน</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="http://support.primatelabs.com/kb">ฐานความรู้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://store.primatelabs.com/store/lost_license/">ใบอนุญาตสูญหาย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">ติดต่อ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/legal/privacy.html">นโยบายความเป็นส่วนตัว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/legal/terms-of-use.html">เงื่อนไขการใช้งาน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">ข่าวสารและสังคม</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/blog/" target="_blank" rel="noreferrer noopener">บล็อก</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://mastodon.social/@geekbench">มาสโตดอน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.facebook.com/primatelabs" target="_blank" rel="noreferrer noopener">เฟสบุ๊ค</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.instagram.com/primatelabs/" target="_blank" rel="noreferrer noopener">อินสตาแกรม</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.youtube.com/channel/UCAr1oShRa70bzaEYwvyLWig/feed" target="_blank" rel="noreferrer noopener">ยูทูป</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":6} -->
+<h6 class="wp-block-heading">บริษัท</h6>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">องค์กร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/careers/">อาชีพ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.primatelabs.com/contact/">สื่อ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
 <!---
   samplefwlink: http://go.microsoft.com/fwlink/p/?LinkId=619979
 --->
