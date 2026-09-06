@@ -1,3 +1,4 @@
+การไฟฟ้าเชียงคานไม่จ่ายเงินเดือนพวกผมมา2-3ปีแล้วไปติิดต่อหลายรอบแล้ว
 # https://github.com/B38834-24-0448?tab=repositories
 # https://biodieselproductionstation.wordpress.com/
 <!-- wp:paragraph -->
