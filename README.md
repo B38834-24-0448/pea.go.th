@@ -1,4 +1,19 @@
 การไฟฟ้าเชียงคานไม่จ่ายเงินเดือนพวกผมมา2-3ปีแล้วไปติิดต่อหลายรอบแล้ว
+{
+  "sessionId": "fb20f087432040bbb5ade2e3453fa066",
+  "errors": [
+    {
+      "errorMessage": "interaction_required: AADSTS16000: User account &#39;{EUII Hidden}&#39; from identity provider &#39;live.com&#39; does not exist in tenant &#39;Microsoft Services&#39; and cannot access the application &#39;74658136-14ec-4630-ad9b-26e160ff0fc6&#39;(ADIbizaUX) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account. Trace ID: 3287ede2-a3d5-4fab-ae64-ee1d8d9f0200 Correlation ID: 33c38625-0ceb-4e50-b297-a12ab89eacb4 Timestamp: 2026-09-07 01:33:00Z",
+      "clientId": "74658136-14ec-4630-ad9b-26e160ff0fc6",
+      "scopes": [
+        "a57aca87-cbc0-4f3c-8b9e-dc095fdc8978/.default"
+      ]
+    }
+  ]
+}
+
+[The portal encountered an issue while attempting to retrieve access tokens. We suggest attempting to sign in again, or alternatively, continuing without access tokens, although this may result in a suboptimal user experience. Additional details: interaction_required: AADSTS16000: User account '{EUII Hidden}' from identity provider 'live.com' does not exist in tenant 'Microsoft Services' and cannot access the application '74658136-14ec-4630-ad9b-26e160ff0fc6'(ADIbizaUX) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account. Trace ID: 35d42710-88cc-4576-93d5-364724e12100 Correlation ID: c9d6b39e-1cc4-434e-a14a-227232823339 Timestamp: 2026-09-07 01:34:07Z. Learn more](https://github.com/B38834-24-0448?tab=repositories)
+
 # https://github.com/B38834-24-0448?tab=repositories
 # https://biodieselproductionstation.wordpress.com/
 # https://www.wikidata.org/wiki/Q5296#sitelinks-wikipedia
