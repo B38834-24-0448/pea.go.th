@@ -1,0 +1,975 @@
+"bgp.tools
+Search
+Login
+Web UI
+Terminal UI
+Query all public BGP sessions connected to bgp.tools
+Lookup by CIDR, only applies to sessions that have been marked to be exported publicly
+
+Search
+Search Filters:48
+
+Must Contain ASN:48
+
+
+Invert ASN Filter
+
+Query Overview:
+1459 Sessions Responded
+2939 Matching Paths Displayed
+769 Matching Private Paths Hidden
+Supported by:48
+ [?]
+2001:3c8:1408::/48   unicast [AS34549 - mx240.fra1.v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 34549 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] [AS34549: Route learned from LocIX Frankfurt] 
+ BGP.local_pref: 120
+                     unicast [AS34549 - mx240.fra1.v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 34549 6939 4651 4621 4621 137261 
+ BGP.community: [AS34549: Route learned from DE-CIX New York] 
+ BGP.large_community: (63034, 1911, 213) (63034, 1912, 4) (63034, 1913, 840) (63034, 1914, 19) 
+ BGP.local_pref: 120
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS174] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS174] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS174] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 1299 2914 4651 4621 4621 137261 
+ BGP.community: [AS1299: Peer] [AS1299: North American Peers] [AS1299: Region North America] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS1299] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 1299 2914 4651 4621 4621 137261 
+ BGP.community: [AS1299: Peer] [AS1299: North American Peers] [AS1299: Region North America] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS1299] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 3257 174 4651 4621 4621 137261 
+ BGP.community: [AS3257: loopback ip address 118] [AS3257: loopback ip address 769] [AS3257: loopback ip address 876] [AS3257: private interconnects 152] [AS3257: route originated in the US and Canada] [AS3257: route originated in the US central] [AS3257: route originated in CHI] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS3257] 
+ BGP.local_pref: 100
+                     unicast [AS36352 - er2.buf1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 36352 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] [AS36352: Transit Route] 
+ BGP.large_community: [AS36352: Transit Route - Peer AS174] 
+ BGP.local_pref: 100
+                     unicast [AS214784 - FRA-RT01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 214784 34927 4651 4621 4621 137261 
+ BGP.community: (34927,130) (34927,1301) 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) 
+                     unicast [AS131630 - v6.tpe1.lazco.tw 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 131630 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS18041] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS57363] 
+                     unicast [AS274676 - AS--BGP-R1--IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 274676 6939 4651 4621 4621 137261 
+ BGP.community: (26162,6939) (26162,64662) (26162,64671) (26162,64681) (26162,65011) [AS26162: unknown on Registro.br] (26162,65121) [AS26162: RPKI valid] 
+ BGP.large_community: (26162, 0, 6939) (26162, 0, 65011) (26162, 100, 2) (26162, 200, 1) (26162, 300, 1) (26162, 660, 2) (26162, 670, 1) (26162, 680, 1) 
+                     unicast [AS13732 - OKCV6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 13732 6939 4651 4621 4621 137261 
+ BGP.community: [AS13732: Learned from Transit] 
+                     unicast [AS8298 - ipv6.defra0 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 8298 4651 4621 4621 137261 
+ BGP.community: (1,10) [AS8298: IXP DE-CIX Frankfurt Routeserver] 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) [AS8298: IXP DE-CIX Frankfurt Routeserver] 
+                     unicast [AS34696 - DE-CIX IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 34696 6939 4651 4621 4621 137261 
+                     unicast [AS58941 - MegaIX-PER-RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58941 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS6499] (65040,0) (65060,15) 
+ BGP.large_community: (58941, 1002, 7651) (58941, 1900, 0) (58941, 1903, 15) 
+                     unicast [AS4181 - CHCGILDTcor51 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 4181 6939 4651 4621 4621 137261 
+ BGP.community: (4181,914) 
+                     unicast [AS60539 - CH_ZRH1_v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 60539 34927 174 4651 4621 4621 137261 
+ BGP.community: (34927,810) (34927,847) (34927,9010) [AS34927: No export - Hurricane Electric] [AS34927: No export - GTT] [AS34927: No export - Cogent] [AS34927: No export - Liberty Global] [AS34927: No export - Telia] (34927,9770) 
+ BGP.large_community: (60539, 3, 70000) (60539, 100, 70000) 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from InterIX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from InterIX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52025: From internet exchange] [AS52210: From upstream provider] [AS52210: From upstream provider (transit)] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from ParadoxNetworks (Transit)] [AS52210: From upstream provider] [AS52210: From upstream provider (transit)] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from Frys-IX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52025: From internet exchange] [AS52210: From upstream provider] [AS52210: From upstream provider (transit)] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from ParadoxNetworks (Transit)] [AS52210: From upstream provider] [AS52210: From upstream provider (transit)] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from Frys-IX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange route server] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS52210: From internet exchange] [AS52210: From internet exchange peer] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from Hurricane Electric (Transit)] [AS52210: Learned from Frys-IX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange peer] 
+                     unicast [AS52210 - NIK-AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52210 6939 4651 4621 4621 137261 
+ BGP.community: [AS52210: From internet exchange] [AS52210: From internet exchange peer] 
+ BGP.large_community: [AS52210: Learned in Amsterdam, Netherlands] [AS52210: Learned at router NIK-AMS01] [AS52210: Learned from Hurricane Electric (Transit)] [AS52210: Learned from AMS-IX (Peer)] [AS52210: From internet exchange] [AS52210: From internet exchange peer] 
+                     unicast [AS214380 - Nikhef IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 214380 4651 4621 4621 137261 
+ BGP.community: (17772,6777) 
+ BGP.large_community: (6777, 1900, 0) 
+                     unicast [AS2914 - snjsca04 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 2914 4651 4621 4621 137261 
+ BGP.community: [AS2914: NTT and customer routes] [AS2914: ASIA MSA origins] [AS2914: Asian country origins] [AS2914: world regional origins] 
+                     unicast [AS209823 - LILLIX_IPV6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 209823 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+ BGP.large_community: (209823, 5, 99) 
+                     unicast [AS200242 - eu: sto1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 200242 208453 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS200242: from transit] [AS200242: rpki valid] [AS200242: aspa unknown] [AS200242: thei.rs/sto1:transit] [AS208453: Learned at IXP <PeeringDB IX 3607>] [AS208453: Learned at Facility <PeeringDB Fac 16189>] [AS208453: Learned in Europe] 
+                     unicast [AS199950 - SONIX-STHLM-IPV6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 199950 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS48641] [Do not announce to AS57363] [Do not announce to AS13335] [Do not announce to AS6939] [Do not announce to AS15133] [Do not announce to AS22822] [AS6939: Learned in EU] [Do not announce to AS15169] [Do not announce to AS12876] [Do not announce to AS32590] [AS6939: Learned in Netherlands] [Do not announce to AS2906] [Do not announce to AS54113] [Do not announce to AS16509] [Do not announce to AS49029] (6939,7304) [Do not announce to AS16265] [Do not announce to AS8075] [Do not announce to AS16276] [Do not announce to AS32934] [Do not announce to AS49581] [Do not announce to AS174] [Do not announce to AS12989] [Do not announce to AS30399] [Do not announce to AS714] [Do not announce to AS20940] [AS6939: Customer Route] 
+                     unicast [AS62866 - csw02.cmh1 v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 62866 6939 4651 4621 4621 137261 
+                     unicast [AS215887 - Zur iFog 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215887 34927 174 4651 4621 4621 137261 
+ BGP.community: (34927,810) (34927,847) 
+ BGP.large_community: [AS215887: RPKI Valid] [AS215887: Learned from upstream iFog CH] 
+                     unicast [AS16189 - RT-PA7-04 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 16189 6939 4651 4621 4621 137261 
+                     unicast [AS24224 - EdgeIX-SYD-6RS2 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 24224 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] 
+                     unicast [AS8631 - MSK-IX Moscow-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 8631 6939 4651 4621 4621 137261 
+ BGP.community: (11,8631) 
+ BGP.large_community: (8631, 1911, 8631) 
+                     unicast [AS61349 - r0.ams2-nkf-ipv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 61349 41960 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] (17152,0) (41960,201) (61349,11211) [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+                     unicast [AS209845 - soleus_ipv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 209845 8283 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS8283: peering routes] [AS8283: Valid IRR entry] 
+ BGP.large_community: [AS8283: peering routes] [AS8283: Valid IRR entry] [AS8283: received via Frys-IX] 
+                     unicast [AS328964 - jhb-sam-core-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 328964 23764 4651 4621 4621 137261 
+ BGP.community: [AS10965: Blackhole to peer 70] (23764,21621) 
+ BGP.large_community: [AS328964: Transit Any] (328964, 1005, 0) (328964, 1105, 0) [AS328964: Traffic Engineering (general)] [AS328964: Traffic Engineering - Prefer Backup Path] 
+                     unicast [AS8714 - LINX-MBA-RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 8714 6939 4651 4621 4621 137261 
+ BGP.community: (8714,65010) (8714,65012) 
+ BGP.large_community: (8714, 0, 714) (8714, 0, 2906) (8714, 0, 6939) (8714, 0, 12876) (8714, 0, 12989) (8714, 0, 13335) (8714, 0, 15133) (8714, 0, 15169) (8714, 0, 16265) (8714, 0, 16276) (8714, 0, 16509) (8714, 0, 20253) (8714, 0, 20940) (8714, 0, 22822) (8714, 0, 32590) (8714, 0, 48641) (8714, 0, 49029) (8714, 0, 54113) (8714, 0, 57363) (8714, 1000, 1) (8714, 1001, 2) 
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 4651 4621 4621 137261 
+ BGP.community: (58299,1100) 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) 
+ BGP.local_pref: 300
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 4651 4621 4621 137261 
+ BGP.community: (58299,1100) 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) 
+ BGP.local_pref: 300
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (47228, 1911, 96) (47228, 1912, 1) (47228, 1913, 276) (47228, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (43252, 1911, 122) (43252, 1912, 2) (43252, 1913, 276) (43252, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (47228, 1911, 96) (47228, 1912, 1) (47228, 1913, 276) (47228, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.large_community: (43252, 1911, 122) (43252, 1912, 2) (43252, 1913, 276) (43252, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 34549 4651 4621 4621 137261 
+ BGP.community: (1,10) (34549,103) (34549,1000) [AS34549: Route learned from DE-CIX Frankfurt] 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.local_pref: 200
+                     unicast [AS58299 - 58299-r1-meer 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58299 6939 4651 4621 4621 137261 
+ BGP.community: (58299,1000) 
+ BGP.local_pref: 200
+                     unicast [AS56309 - pth-iig-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 137557 6939 4651 4621 4621 137261 
+                     unicast [AS56309 - pth-iig-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS56309 - pth-iig-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS56309 - pth-iig-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS2635 - BOM-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 2635 133296 9498 4651 4621 4621 137261 
+                     unicast [AS2635 - BOM-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 2635 9583 4651 4621 4621 137261 
+                     unicast [AS401332 - US-MN1-Ridgeview 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 401332 10242 6939 4651 4621 4621 137261 
+                     unicast [AS12198 - TPE 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 12198 216211 4651 4621 4621 137261 
+ BGP.community: [AS12198: Asia] [AS12198: NRT (Tokyo)] 
+ BGP.large_community: (12198, 40, 216211) (45686, 1000, 1) (45686, 1001, 1) [AS216211: Learned in JP] [AS216211: Prepend 0 times to JPNAP-Tokyo (max 3)] 
+                     unicast [AS12198 - TPE 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 12198 213605 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS18041] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS57363] [AS12198: Asia] 
+ BGP.large_community: [AS213605: RPKI Valid] [AS213605: ASPA Unknown] 
+                     unicast [AS12198 - TPE 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 12198 216211 4651 4621 4621 137261 
+ BGP.community: [AS12198: NRT (Tokyo)] (12198,42) 
+ BGP.large_community: (12198, 40, 216211) (45686, 1000, 1) (45686, 1001, 1) [AS216211: Learned in JP] [AS216211: Prepend 0 times to JPNAP-Tokyo (max 3)] 
+                     unicast [AS12198 - TPE 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 12198 216211 4651 4621 4621 137261 
+ BGP.community: [AS12198: Asia] [AS12198: NRT (Tokyo)] (12198,42) [AS12198: Asia] 
+ BGP.large_community: (12198, 40, 216211) (45686, 1000, 1) (45686, 1001, 1) [AS216211: Learned in JP] [AS216211: Prepend 0 times to JPNAP-Tokyo (max 3)] 
+                     unicast [AS328964 - cpt-core-1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 328964 37468 4651 4621 4621 137261 
+ BGP.community: (1,10) (37468,37468) (37468,12400) (37468,12401) [AS37468: Learned at IXPs in Europe] (37468,2240) (37468,2241) [AS37468: Learned from public peering points/IXPs] [AS37468: Learned in Europe] 
+ BGP.large_community: (6695, 1911, 97) (6695, 1912, 6) (6695, 1913, 250) (6695, 1914, 150) [AS328964: Transit Any] [AS328964: Angola Cables (all locations)] [AS328964: Angola Cables Cape Town] 
+                     unicast [AS200936 - VULTRJP 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 200936 20473 4651 4621 4621 137261 
+ BGP.community: [AS20473: Prefix learned from Public Peer] (64515,44) 
+ BGP.large_community: [AS20473: Prefix learned from Public Peer AS45686] 
+                     unicast [AS52075 - DE-FRA-EQ5 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52075 4651 4621 4621 137261 
+ BGP.community: [AS52075: Learnt as Peering @ DE-CIX Frankfurt (Frankfurt, DE)] [AS52075: Learnt on POP DE-FRA-EQ5 (Frankfurt, DE)] 
+                     unicast [AS1097 - Ashburn - v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 1097 36236 2914 4651 4621 4621 137261 
+ BGP.community: [AS2914: NTT and customer routes] [AS2914: ASIA MSA origins] [AS2914: Asian country origins] [AS2914: world regional origins] (36236,50) (36236,1001) 
+ BGP.local_pref: 100
+                     unicast [AS54148 - Bern 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 54148 53667 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] 
+ BGP.large_community: (53667, 0, 1) (53667, 1, 174) [AS54148: route learned from AS53667] [AS54148: route learned from transit] 
+                     unicast [AS63956 - JP Equinix TY8 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 63956 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7305) [AS6939: Learned in Hong Kong] [AS6939: Learned in APAC] 
+                     unicast [AS63800 - otemachi-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 63800 6939 4651 4621 4621 137261 
+ BGP.community: (63800,65504) 
+ BGP.large_community: (63800, 1, 100) (63800, 1, 65000) (63800, 64512, 9928) (63800, 65100, 9928) 
+                     unicast [AS219529 - cr01-fra-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 219529 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] [AS52025: From internet exchange] [AS52025: From internet exchange route server] 
+ BGP.large_community: [AS52025: Learned in Frankfurt, Germany] [AS52025: Learned at router NTT-FRA01A] [AS52025: Learned from AS213687] [AS52025: Learned from ERA-IX Frankfurt] [AS52025: Learned in Europe] (213687, 899, 9999) [AS219529: Learned from AS52025] [AS219529: Learned from transit] [AS219529: Source type - transit] [AS219529: Source AS52025] [AS219529: Learned in Frankfurt] 
+                     unicast [AS219529 - cr01-fra-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 219529 215828 62255 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS24940] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49453] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [Do not announce to AS65535] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (35598,300) (35598,302) (50952,21051) (50952,64924) 
+ BGP.large_community: [AS215828: Learned from AS62255] (215828, 101, 0) (215828, 101, 1) (215828, 101, 62255) [AS219529: Learned from AS215828] [AS219529: Learned from transit] [AS219529: Source type - transit] [AS219529: Source AS215828] [AS219529: Learned in Frankfurt] 
+                     unicast [AS219529 - cr01-fra-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 219529 211358 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] 
+ BGP.large_community: (24381, 1006, 0) (24381, 1006, 31142) (211358, 0, 0) (211358, 0, 3) (211358, 0, 24381) [AS219529: Learned from AS211358] [AS219529: Learned from transit] [AS219529: Source type - transit] [AS219529: Source AS211358] [AS219529: Learned in Frankfurt] 
+                     unicast [AS219529 - cr01-fra-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 219529 215685 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+ BGP.large_community: (215685, 1, 102) (215685, 3, 101) [AS219529: Learned from AS215685] [AS219529: Learned from transit] [AS219529: Source type - transit] [AS219529: Source AS215685] [AS219529: Learned in Frankfurt] 
+                     unicast [AS219529 - cr01-fra-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 219529 6939 4651 4621 4621 137261 
+ BGP.community: (31561,65001) 
+ BGP.large_community: (31561, 0, 714) (31561, 0, 2906) (31561, 0, 6939) (31561, 0, 12876) (31561, 0, 12989) (31561, 0, 13335) (31561, 0, 15133) (31561, 0, 15169) (31561, 0, 16265) (31561, 0, 16276) (31561, 0, 16509) (31561, 0, 20253) (31561, 0, 20940) (31561, 0, 22822) (31561, 0, 24940) (31561, 0, 32590) (31561, 0, 48641) (31561, 0, 49029) (31561, 0, 54113) (31561, 0, 57363) (31561, 0, 396986) (31561, 2005, 0) (31561, 2006, 0) (31561, 2011, 0) (31561, 2021, 0) (31561, 2031, 0) (31561, 2041, 0) (31561, 2051, 0) [AS219529: Learned at IXP with ID 31561] [AS219529: Learned from AS31561] [AS219529: Learned from IXP route server] [AS219529: Learned over iBGP] [AS219529: Source type - IXP] [AS219529: Source type - iBGP] [AS219529: Source AS31561] [AS219529: Source IXP ID 31561] (219529, 310, 5) 
+                     unicast [AS206924 - Google-AMS-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 15169 6939 4651 4621 4621 137261 
+                     unicast [AS48362 - EMPO-ASR1 IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 48362 6939 4651 4621 4621 137261 
+                     unicast [AS39421 - edge1.pa3 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 39421 6939 4651 4621 4621 137261 
+ BGP.community: (31561,65001) (39421,2000) (39421,2010) (39421,2011) 
+ BGP.large_community: (31561, 0, 714) (31561, 0, 2906) (31561, 0, 6939) (31561, 0, 12876) (31561, 0, 12989) (31561, 0, 13335) (31561, 0, 15133) (31561, 0, 15169) (31561, 0, 16265) (31561, 0, 16276) (31561, 0, 16509) (31561, 0, 20253) (31561, 0, 20940) (31561, 0, 22822) (31561, 0, 24940) (31561, 0, 32590) (31561, 0, 48641) (31561, 0, 49029) (31561, 0, 54113) (31561, 0, 57363) (31561, 0, 396986) (31561, 2005, 0) (31561, 2006, 0) (31561, 2011, 0) (31561, 2021, 0) (31561, 2031, 0) (31561, 2041, 0) (31561, 2051, 0) 
+                     unicast [AS39421 - edge1.pa3 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 39421 6939 4651 4621 4621 137261 
+ BGP.community: (31561,65001) (39421,2000) (39421,2010) (39421,2011) 
+ BGP.large_community: (31561, 0, 714) (31561, 0, 2906) (31561, 0, 6939) (31561, 0, 12876) (31561, 0, 12989) (31561, 0, 13335) (31561, 0, 15133) (31561, 0, 15169) (31561, 0, 16265) (31561, 0, 16276) (31561, 0, 16509) (31561, 0, 20253) (31561, 0, 20940) (31561, 0, 22822) (31561, 0, 24940) (31561, 0, 32590) (31561, 0, 48641) (31561, 0, 49029) (31561, 0, 54113) (31561, 0, 57363) (31561, 0, 396986) (31561, 2005, 0) (31561, 2006, 0) (31561, 2011, 0) (31561, 2021, 0) (31561, 2031, 0) (31561, 2041, 0) (31561, 2051, 0) 
+                     unicast [AS213428 - v6.tpe.haco.tw 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 213428 131630 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS18041] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS57363] 
+                     unicast [AS152184 - BBT-Shin-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 152184 6939 4651 4621 4621 137261 
+                     unicast [AS3399 - NETNOD-HEL-B-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 3399 6939 4651 4621 4621 137261 
+ BGP.community: [AS3399: Peer route] [AS3399: Learned from SONIX Stockholm] [AS3399: Learned from Region Stockholm] [AS3399: RPKI Valid] [AS3399: Learned from PoP Interxion Stockholm] (3399,2017) [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+                     unicast [AS44097 - RT-CAZ 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 44097 34019 4651 4621 4621 137261 
+ BGP.community: (64512,20003) (44097,34019) (44097,65001) 
+                     unicast [AS9033 - MegaFRA RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 9033 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS49581] [Do not announce to AS54113] [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] (65040,0) (65060,23) 
+ BGP.large_community: (9033, 1002, 7646) (9033, 1900, 0) (9033, 1903, 23) 
+                     unicast [AS213350 - BBIX-AMS-RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 213350 6939 4651 4621 4621 137261 
+ BGP.community: (65101,150) (65102,528) (65103,5281) (65104,5281) (65530,65012) 
+                     unicast [AS266400 - SP01-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 266400 37468 4651 4621 4621 137261 
+                     unicast [AS14840 - core01.bre4 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 14840 4651 4621 4621 137261 
+ BGP.community: [AS14840: from Transits] [AS14840: from IXP] [AS14840: from DE-CIX Frankfurt] [AS14840: from New York-NY-US] 
+                     unicast [AS56309 - pth-iig-2 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS56309 - pth-iig-2 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS56309 - pth-iig-2 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56309 45629 15412 4651 4621 4621 137261 
+                     unicast [AS49544 - ausyd1-rt001i-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 49544 6939 4651 4621 4621 137261 
+ BGP.community: (24115,6939) (24115,24115) (24115,65012) [AS49544: Route learned from public peering in Oceania] (49544,44061) 
+ BGP.large_community: (24115, 1000, 1) (24115, 1001, 1) (24115, 1002, 1) (24115, 1003, 1) (24115, 1004, 6939) 
+                     unicast [AS400330 - DE-CIX PHX RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 400330 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+ BGP.large_community: (400330, 1911, 130) (400330, 1912, 24) (400330, 1913, 840) (400330, 1914, 19) 
+                     unicast [AS274021 - ZONA1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 274021 3356 2914 4651 4621 4621 137261 
+ BGP.community: [AS3356: North America] [AS3356: USA] [AS2914: world regional origins] (3356,86) (3356,601) [AS2914: Asian country origins] [AS2914: ASIA MSA origins] (3356,901) [AS2914: NTT and customer routes] [AS3356: Peer route] (3356,2258) 
+                     unicast [AS216191 - AMS001 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 216191 34927 1299 174 4651 4621 4621 137261 
+ BGP.community: [AS1299: Peer] [AS1299: EU Peers] [AS1299: Region Europe] (34927,710) (34927,761) 
+                     unicast [AS207510 - DC1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 207510 29670 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] (29670,1058) [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+ BGP.large_community: [AS207510: traversed a tunnel] [AS207510: learned from upstream AS29670] [AS207510: learned in DC1 from AS207510] [AS207510: learned in BER1 from AS29670] 
+                     unicast [AS211358 - UK_PPNET_IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 211358 6204 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] [AS6204: LONDON PEERS] 
+ BGP.large_community: (8714, 1000, 1) (8714, 1001, 2) (211358, 0, 0) (211358, 0, 1) (211358, 0, 6204) 
+ BGP.local_pref: 100
+                     unicast [AS211358 - UK_PPNET_IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 211358 6939 4651 4621 4621 137261 
+ BGP.large_community: (211358, 0, 0) (211358, 0, 1) (211358, 0, 6939) 
+ BGP.local_pref: 150
+                     unicast [AS211358 - UK_PPNET_IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 211358 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS54113] 
+ BGP.large_community: (211358, 0, 0) (211358, 0, 2) (211358, 0, 8550) 
+ BGP.local_pref: 200
+                     unicast [AS211358 - UK_PPNET_IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 211358 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS54113] 
+ BGP.large_community: (211358, 0, 0) (211358, 0, 1) (211358, 0, 8550) 
+ BGP.local_pref: 200
+                     unicast [AS211358 - UK_PPNET_IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 211358 215638 6939 4651 4621 4621 137261 
+ BGP.large_community: (211358, 0, 0) (211358, 0, 1) (211358, 0, 215638) [AS215638: LON2 : GNM-IX : RS Learned Routes] 
+ BGP.local_pref: 100
+                     unicast [AS6461 - AMS-IX v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6461 4651 4621 4621 137261 
+ BGP.community: [AS6461: Peer] 
+                     unicast [AS136557 - SYD-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 136557 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] (64514,4) (64514,42000) 
+                     unicast [AS49544 - brcoa1-rt001i-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 49544 6939 4651 4621 4621 137261 
+ BGP.community: [AS49544: Route learned from public peering in South America] (49544,54055) 
+ BGP.large_community: (274682, 1911, 206) (274682, 1912, 53) (274682, 1913, 76) (274682, 1914, 19) 
+                     unicast [AS1103 - Alice NL-ix IPv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 1103 4651 4621 4621 137261 
+                     unicast [AS61049 - LHR0 - LONAP v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 61049 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] (8714,65010) (8714,65012) 
+ BGP.large_community: (8714, 1000, 1) (8714, 1001, 2) [AS61049: Origin - route learnt from public peer] [AS61049: Origin - route originated in UK (United Kingdom)] [AS61049: Origin - route originated in LHR (London, UK)] [AS61049: Origin - route learned from LINX LON1 public peering] [AS61049: Origin - route learned from IX peer AS8714] 
+                     unicast [AS213350 - BBIX-AMS-RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 213350 6939 4651 4621 4621 137261 
+ BGP.community: (65101,150) (65102,528) (65103,5281) (65104,5281) (65530,65012) 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 6939 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] (6204,2101) (6204,2501) 
+ BGP.large_community: (24115, 1000, 1) (24115, 1001, 1) (24115, 1002, 2) (24115, 1003, 0) (24115, 1004, 6939) 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 6939 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] (6204,2101) (6204,2501) 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 1299 174 4651 4621 4621 137261 
+ BGP.community: (6204,3000) (6204,3101) (6204,3501) 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 2914 4651 4621 4621 137261 
+ BGP.community: (6204,3000) (6204,3101) (6204,3501) 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] [AS6204: AMSTERDAM PEERS] 
+                     unicast [AS6204 - ASH-PR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 6204 6939 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] (6204,2101) (6204,2501) 
+ BGP.large_community: (24115, 1000, 1) (24115, 1001, 1) (24115, 1002, 1) (24115, 1003, 7) (24115, 1004, 6939) 
+                     unicast [AS42473 - RKE-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 42473 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (47147,1500) (47147,2000) (47147,2122) (47147,2301) (47147,2431) (47147,2823) 
+                     unicast [AS64220 - MegaIX-DEN-RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 64220 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] (65040,0) (65060,48) 
+ BGP.large_community: (64220, 1002, 6105) (64220, 1900, 0) (64220, 1903, 48) 
+                     unicast [AS63832 - MegaKIX-RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 63832 6939 4651 4621 4621 137261 
+ BGP.community: (65040,0) (65060,86) 
+ BGP.large_community: (63832, 1002, 6899) (63832, 1900, 0) (63832, 1903, 86) 
+                     unicast [AS153346 - cr1.eqx-sy3.v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 153346 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS48641] [Do not announce to AS13335] [Do not announce to AS6939] [Do not announce to AS15133] [Do not announce to AS22822] [Do not announce to AS15169] [Do not announce to AS12876] [Do not announce to AS32590] [Do not announce to AS2906] [Do not announce to AS16509] [Do not announce to AS49029] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS12989] [Do not announce to AS714] [Do not announce to AS20940] 
+ BGP.large_community: (153346, 3000, 1000) (153346, 3010, 1000) (153346, 3010, 24224) 
+                     unicast [AS208627 - regis ipv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 208627 204092 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+ BGP.large_community: (204092, 100, 150) (204092, 1003, 0) (204092, 1003, 34307) (208627, 100, 100) 
+                     unicast [AS201726 - waw-pe1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 201726 64515 65534 20473 201054 6939 4651 4621 4621 137261 
+ BGP.community: [AS20473: Prefix learned from Private Peer] (64515,44) 
+ BGP.large_community: [AS20473: Prefix learned from Private Peer AS201054] 
+                     unicast [AS213422 - bbr01.dus.de 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 213422 214915 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) [AS213422: Learned on bbr01.dus.de.as213422.net] [AS213422: Learned from AS214915] [AS213422: Learned from Upstream] [AS213422: RPKI VALID] [AS213422: Region Europe] [AS213422: Country Germany] [AS213422: City Dusseldorf, DE] [AS213422: ASPA UNKNOWN] (214915, 20, 4) 
+                     unicast [AS43729 - DE-CIX LIS RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 43729 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+ BGP.large_community: (43729, 1911, 226) (43729, 1912, 11) (43729, 1913, 620) (43729, 1914, 150) 
+                     unicast [AS43729 - DE-CIX LIS RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 43729 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+ BGP.large_community: (43729, 1911, 226) (43729, 1912, 11) (43729, 1913, 620) (43729, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.large_community: (47228, 1911, 96) (47228, 1912, 1) (47228, 1913, 276) (47228, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 3204 3214 4651 4621 4621 137261 
+ BGP.community: (3204,3002) (3214,100) (3214,4001) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.large_community: (43252, 1911, 122) (43252, 1912, 2) (43252, 1913, 276) (43252, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.large_community: (43252, 1911, 122) (43252, 1912, 2) (43252, 1913, 276) (43252, 1914, 150) 
+                     unicast [AS51087 - DUS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51087 6939 4651 4621 4621 137261 
+ BGP.large_community: (47228, 1911, 96) (47228, 1912, 1) (47228, 1913, 276) (47228, 1914, 150) 
+                     unicast [AS51396 - DE-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51396 62403 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS49581] [Do not announce to AS54113] [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] [AS51396: Prefix recieved by transit provider] [AS51396: Prefix received by PletX] 
+ BGP.large_community: (49581, 82110, 999) (49581, 82110, 9990) (62403, 60000, 999) (62403, 60110, 999) (62403, 60111, 999) (62403, 61000, 999) (62403, 61110, 999) (62403, 61111, 1) (62403, 61111, 10) (62403, 61111, 999) (202559, 1910, 2030) (202559, 1911, 114) (202559, 1912, 108) (202559, 1913, 276) (202559, 1914, 150) (202559, 1915, 14) 
+                     unicast [AS51396 - DE-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51396 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS24940] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [Do not announce to AS62041] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS51396: Prefix received via 1-IX EU] 
+ BGP.large_community: (50263, 1910, 667) (50263, 1911, 23) (50263, 1912, 107) (50263, 1913, 616) (50263, 1914, 150) (50263, 1915, 6) 
+                     unicast [AS51396 - DE-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51396 62403 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS49581] [Do not announce to AS54113] [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] [AS51396: Prefix recieved by transit provider] [AS51396: Prefix received by PletX] 
+ BGP.large_community: (49581, 82110, 999) (49581, 82110, 9990) (62403, 60000, 999) (62403, 60110, 999) (62403, 60111, 999) (62403, 61000, 999) (62403, 61110, 999) (62403, 61111, 1) (62403, 61111, 10) (62403, 61111, 999) (202559, 1910, 2030) (202559, 1911, 114) (202559, 1912, 108) (202559, 1913, 276) (202559, 1914, 150) (202559, 1915, 14) 
+                     unicast [AS51396 - DE-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51396 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS51396: Prefix received via ERA-IX NL] 
+ BGP.large_community: (206221, 899, 18) (206221, 901, 18) (206221, 901, 62) (206221, 901, 245) (206221, 901, 374) (206221, 901, 1083) 
+                     unicast [AS51396 - DE-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 51396 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] 
+ BGP.large_community: (213687, 899, 9999) 
+                     unicast [AS209710 - LON1-BDR5-R1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 209710 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS24940] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49453] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [Do not announce to AS65535] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (50952,21051) (50952,64924) 
+ BGP.large_community: [AS209710: Route Learned from Peering or IX Route Server AS 50952] [AS209710: Route Learned via IX Route Server AS 50952] [AS209710: Route Learned at GNM-IX] [AS209710: Europe Region Tag, Country Code 826] 
+                     unicast [AS52025 - rt0-eqx.sin02.sg 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 20473 4651 4621 4621 137261 
+ BGP.community: [AS20473: Prefix learned from Public Peer] [AS52025: From upstream provider] [AS52025: From upstream provider (peering)] (64515,44) 
+ BGP.large_community: [AS20473: Prefix learned from Public Peer AS24115] [AS52025: Learned in Singapore, Singapore] [AS52025: Learned at router EQX-SIN02] [AS52025: Learned from AS20473] [AS52025: Learned in Asia] 
+                     unicast [AS271247 - rssul_v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 271247 28283 3356 2914 4651 4621 4621 137261 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [AS52025: From internet exchange] [AS52025: From internet exchange route server] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS40542] [AS52025: Learned from KCIX] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 3257 174 4651 4621 4621 137261 
+ BGP.community: (3257,10093) [AS3257: private interconnects 410] [AS3257: route originated in the US and Canada] [AS3257: route originated in the US central] [AS3257: route originated in STL] [AS52025: From upstream provider] [AS52025: From upstream provider (transit)] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS3257] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 64289 6939 4651 4621 4621 137261 
+ BGP.community: [AS52025: From upstream provider] [AS52025: From upstream provider (transit)] (64289,2000) (64599,100) (64599,102) 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS64289] [AS52025: Learned in North America] (394594, 64599, 100) (394594, 64599, 102) 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 32097 6939 4651 4621 4621 137261 
+ BGP.community: (32097,5) (32097,3000) (32097,3001) [AS52025: From upstream provider] [AS52025: From upstream provider (transit)] [AS52025: Learned from backbone] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01B] [AS52025: Learned from AS32097] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [AS52025: From internet exchange] [AS52025: From internet exchange route server] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS40542] [AS52025: Learned from KCIX] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] [AS52025: From upstream provider] [AS52025: From upstream provider (transit)] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS174] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 6939 4651 4621 4621 137261 
+ BGP.community: [AS52025: From internet exchange] [AS52025: From internet exchange peer] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS6939] [AS52025: Learned from STLIX] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 6939 4651 4621 4621 137261 
+ BGP.community: [AS52025: From internet exchange] [AS52025: From internet exchange peer] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS6939] [AS52025: Learned from KCIX] [AS52025: Learned in North America] 
+                     unicast [AS52025 - rt0a-noc.mci01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52025 32097 6939 4651 4621 4621 137261 
+ BGP.community: (32097,5) (32097,3000) (32097,3001) [AS52025: From upstream provider] [AS52025: From upstream provider (transit)] 
+ BGP.large_community: [AS52025: Learned in Kansas City, United States] [AS52025: Learned at router NOC-MCI01A] [AS52025: Learned from AS32097] [AS52025: Learned in North America] 
+                     unicast [AS32554 - PHL1-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 32554 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] [AS32554: Prefixes from Peers] [AS32554: Prefixes from Peers] 
+                     unicast [AS49544 - nlrtm1-rt001i-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 49544 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] [AS49544: Route learned from public peering in Europe] (49544,24031) [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+                     unicast [AS204882 - DEN-R01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 204882 212895 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS48641] [Do not announce to AS13335] [Do not announce to AS6939] [Do not announce to AS15133] [Do not announce to AS22822] [Do not announce to AS15169] [Do not announce to AS12876] [Do not announce to AS32590] [Do not announce to AS2906] [Do not announce to AS54113] [Do not announce to AS16509] [Do not announce to AS49029] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS12989] [Do not announce to AS714] [Do not announce to AS20940] 
+ BGP.large_community: (212895, 3, 1) 
+                     unicast [AS56911 - PAR 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 56911 174 4651 4621 4621 137261 
+                     unicast [AS199327 - RR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 199327 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS24940] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49453] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [Do not announce to AS65535] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (50952,21051) (50952,64924) 
+ BGP.large_community: [AS199327: Ingress router/provider ID 4] [AS199327: Learned via peering/IXP] [AS199327: Ingress region 10] 
+                     unicast [AS199327 - RR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 199327 34872 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] 
+ BGP.large_community: (34872, 10, 0) [AS199327: Ingress router/provider ID 3] [AS199327: Learned via transit] [AS199327: Ingress region 10] 
+                     unicast [AS199327 - RR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 199327 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS24940] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49453] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [Do not announce to AS65535] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (50952,21051) (50952,64924) 
+ BGP.large_community: [AS199327: Ingress router/provider ID 4] [AS199327: Learned via peering/IXP] [AS199327: Ingress region 10] 
+                     unicast [AS199327 - RR1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 199327 34872 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7324) [AS6939: Learned in Germany] [AS6939: Learned in EU] 
+ BGP.large_community: (34872, 10, 0) [AS199327: Ingress router/provider ID 3] [AS199327: Learned via transit] [AS199327: Ingress region 10] 
+                     unicast [AS1097 - LA - v4 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 1097 399951 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+ BGP.local_pref: 100
+                     unicast [AS1097 - LA - v4 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 1097 399951 174 4651 4621 4621 137261 
+ BGP.community: [AS174: Route is an AP internal or customer route] [AS174: Singapore] 
+ BGP.local_pref: 100
+                     unicast [AS11655 - SERVICES-YXE1-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 11655 6939 4651 4621 4621 137261 
+ BGP.large_community: (11655, 1, 4) (11655, 2, 1) (46210, 11, 1) (46210, 11, 3) 
+                     unicast [AS49432 - core2-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 49432 48362 6939 4651 4621 4621 137261 
+                     unicast [AS49432 - core2-v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 49432 215510 58115 6939 4651 4621 4621 137261 
+                     unicast [AS64220 - MegaIX-MIA-RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 64220 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS49581] [Do not announce to AS54113] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] (65040,0) (65060,43) 
+ BGP.large_community: (64220, 1002, 6184) (64220, 1900, 0) (64220, 1903, 43) 
+                     unicast [AS52005 - BLUE-ARN-RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52005 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+                     unicast [AS48678 - PEN_BIX_IPV6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 48678 6939 4651 4621 4621 137261 
+ BGP.community: (48678,15669) 
+ BGP.large_community: (48678, 1, 15669) 
+                     unicast [AS14907 - DE-CIX Dallas 6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 14907 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] (14907,4) 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from routeserver] [AS27523: from AS56393] [AS27523: from neighbor id 11391] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from routeserver] [AS27523: from AS56393] [AS27523: from neighbor id 11391] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from upstream] [AS27523: from AS6939] [AS27523: from neighbor id 8687] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from upstream] [AS27523: from AS6939] [AS27523: from neighbor id 62374] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from routeserver] [AS27523: from AS56584] [AS27523: from neighbor id 15965] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 50917 216265 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from upstream] [AS27523: from AS50917] [AS27523: from neighbor id 11672] (216265, 2, 80000) (216265, 2, 80031) (216265, 5, 80000) (216265, 5, 80031) (216265, 206221, 80031) 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6204 4651 4621 4621 137261 
+ BGP.community: [AS6204: PEERS] [AS6204: AMSTERDAM PEERS] 
+ BGP.large_community: [AS27523: from upstream] [AS27523: from AS6204] [AS27523: from neighbor id 49200] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS27523: from routeserver] [AS27523: from AS56584] [AS27523: from neighbor id 15965] 
+                     unicast [AS27523 - AMS01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 27523 6939 4651 4621 4621 137261 
+ BGP.large_community: [AS27523: from upstream] [AS27523: from AS6939] [AS27523: from neighbor id 57327] 
+                     unicast [AS206014 - rtr-01.pa3-ip6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 206014 6939 4651 4621 4621 137261 
+ BGP.community: (51706,64601) (51706,64650) (51706,65011) (51706,65012) [AS3399: Normal announce to AS2] [AS3399: Normal announce to AS1000] [AS57866: Transit/Private peer route learned from AS51706] (65101,100) (65200,1) (65200,2) 
+ BGP.large_community: (51706, 1000, 1) (51706, 1001, 1) (51706, 1002, 1) 
+                     unicast [AS58941 - MegaIX-SYD-RS1-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 58941 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS6499] (65040,0) (65060,1) 
+ BGP.large_community: (58941, 1002, 7641) (58941, 1900, 0) (58941, 1903, 1) 
+                     unicast [AS205794 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 205794 3204 3214 4651 4621 4621 137261 
+ BGP.community: (3214,100) (3214,4001) 
+                     unicast [AS52075 - FR-PAR-ILD2 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52075 4651 4621 4621 137261 
+ BGP.community: [AS52075: Learnt as Peering @ NL-IX (Paris, FR)] [AS52075: Learnt on POP FR-PAR-TH2 (Paris, FR)] 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 210320 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS3786] [Do not announce to AS7552] [Do not announce to AS9318] [Do not announce to AS9498] [Do not announce to AS45758] [AS3399: Normal announce to AS51159] [AS3399: Normal announce to AS65033] [AS3399: Normal announce to AS65113] [AS3399: Normal announce to AS65153] 
+ BGP.large_community: (210320, 2, 1) 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 8283 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS8283: peering routes] [AS8283: Valid IRR entry] 
+ BGP.large_community: [AS8283: peering routes] [AS8283: Valid IRR entry] [AS8283: received via Frys-IX] 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 8283 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS8283: peering routes] [AS8283: Valid IRR entry] 
+ BGP.large_community: [AS8283: peering routes] [AS8283: Valid IRR entry] [AS8283: received via Frys-IX] 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 202585 4651 4621 4621 137261 
+ BGP.large_community: (6777, 1900, 0) [AS202585: Learned from IXP peer/RS] [AS202585: Learned from AS6777] [AS202585: Learned at AMS-IX] [AS202585: Learned at NIKHEF Amsterdam] 
+                     unicast [AS197754 - br1-as197754 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 197754 202585 4651 4621 4621 137261 
+ BGP.large_community: (6777, 1900, 0) [AS202585: Learned from IXP peer/RS] [AS202585: Learned from AS6777] [AS202585: Learned at AMS-IX] [AS202585: Learned at NIKHEF Amsterdam] 
+                     unicast [AS204931 - GB-LON 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 204931 34927 6939 4651 4621 4621 137261 
+ BGP.community: (34927,530) 
+ BGP.large_community: [AS204931: Route learned in the UK (GB)] [AS204931: Route learned in Europe] [AS204931: Route learned from a transit provider] 
+                     unicast [AS33509 - EST-9001-A-ipv6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 33509 174 4651 4621 4621 137261 
+                     unicast [AS64220 - MegaIX-ATL-RS2-6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 64220 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] (65040,0) (65060,22) 
+ BGP.large_community: (64220, 1002, 8496) (64220, 1900, 0) (64220, 1903, 22) 
+                     unicast [AS208972 - ATAKOY-RR-V6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 208972 9121 2914 4651 4621 4621 137261 
+ BGP.community: [AS2914: NTT and customer routes] [AS2914: ASIA MSA origins] [AS2914: Asian country origins] [AS2914: world regional origins] (9121,50000) (9121,50010) 
+                     unicast [AS210821 - AS210821_DE_v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 210821 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Learned in EU] [AS6939: Learned in Netherlands] (21082,100) (6939,7304) [AS6939: Customer Route] 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+                     unicast [AS42184 - DE-CIX HAM 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 42184 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] (17152,0) (42184,1113) (42184,1207) (42184,1311) (42184,5555) 
+ BGP.large_community: (56890, 1911, 93) (56890, 1912, 9) (56890, 1913, 276) (56890, 1914, 150) 
+                     unicast [AS16189 - RT-DC4-04 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 16189 6939 4651 4621 4621 137261 
+                     unicast [AS21903 - dfw01-edg-r1 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 21903 13830 6939 4651 4621 4621 137261 
+ BGP.community: (13830,3003) (13830,4000) (13830,5000) 
+                     unicast [AS215760 - YYZ01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+                     unicast [AS215760 - YYZ01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+                     unicast [AS215760 - YYZ01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 52025 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] [AS52025: From internet exchange] [AS52025: From internet exchange route server] 
+ BGP.large_community: [AS52025: Learned in Toronto, Canada] [AS52025: Learned at router EQX-YYZ02] [AS52025: Learned from AS57369] [AS52025: Learned from ONIX] [AS52025: Learned in North America] [AS215760: Route learned from upstream transit] [AS215760: Route learned from Toronto] 
+                     unicast [AS215760 - YYZ01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7548) [AS6939: Learned in United Kingdom] [AS6939: Learned in EU] 
+ BGP.large_community: [AS215760: Route learned from upstream transit] [AS215760: Route learned from Toronto] 
+                     unicast [AS52075 - UK-LON-EQ8 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 52075 4651 4621 4621 137261 
+ BGP.community: [AS52075: Learnt as Peering @ LINX LON1 (London, UK)] [AS52075: Learnt on POP UK-LON-EQ8 (London, UK)] 
+                     unicast [AS13681 - FD-IX-STL-RS26 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 13681 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] 
+                     unicast [AS23273 - AS23273-AS4764 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 23273 4764 3356 4651 4621 4621 137261 
+ BGP.community: [AS23273: Route received via transit] 
+ BGP.large_community: [AS23273: Route received via transit peer AS4764] 
+ BGP.local_pref: 100
+                     unicast [AS4138 - TRYON-NC-01 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 4138 397373 6461 4651 4621 4621 137261 
+ BGP.large_community: [AS4138: Prefix learned from Transit AS397373] 
+                     unicast [AS32002 - DTW-SPINE1 v6 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 32002 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS27589] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] [AS32002: INFORMATIONAL | Learned or originated at Grand Rapids (GRR)] [AS32002: INFORMATIONAL | Route learned from public peering / IXP] 
+                     unicast [AS207846 - MCR Reynolds 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 207846 44355 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS32590] [Do not announce to AS48641] [Do not announce to AS49029] (8714,65010) (8714,65012) 
+ BGP.large_community: (8714, 1000, 1) (8714, 1001, 2) [AS44355: From IX] [AS44355: From IX route server] [AS44355: Originated in Manchester, UK] [AS44355: Learned in Manchester, UK] [AS44355: Learned from LINX MAN1] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 41051 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS41051: Learned from Peer / Routeserver] 
+ BGP.large_community: [AS215760: Route learned from upstream transit] [AS215760: Route learned from Amsterdam] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS215760: Route learned from upstream transit] [AS215760: Route learned from Amsterdam] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 11967 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS50049] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] [AS11967: Source: AMS1 Router] [AS11967: From IXP Route Server] 
+ BGP.large_community: [AS11967: From Frys-IX RS] [AS11967: Learned in EU] [AS11967: Learned in Amsterdam, NL] [AS11967: RPKI: Valid] [AS215760: Route learned from upstream transit] [AS215760: Route learned from Amsterdam] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.large_community: [AS215760: Route learned from upstream transit] [AS215760: Route learned from Amsterdam] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announce to AS16265] [Do not announce to AS16276] [Do not announce to AS16509] [Do not announce to AS20253] [Do not announce to AS20940] [Do not announce to AS22822] [Do not announce to AS30399] [Do not announce to AS32590] [Do not announce to AS32934] [Do not announce to AS48641] [Do not announce to AS49029] [Do not announce to AS49581] [Do not announce to AS54113] [Do not announce to AS57363] [AS6939: Customer Route] (6939,7304) [AS6939: Learned in Netherlands] [AS6939: Learned in EU] 
+ BGP.large_community: [AS215760: Route learned from IXP route server] [AS215760: Route learned from Amsterdam] 
+                     unicast [AS215760 - AMS 0000-00-00] * (?/-) [AS137261]
+ Type: BGP
+ BGP.as_path: 215760 6939 4651 4621 4621 137261 
+ BGP.community: [Do not announce to AS174] [Do not announce to AS714] [Do not announce to AS2906] [Do not announce to AS6939] [Do not announce to AS8075] [Do not announce to AS12876] [Do not announce to AS12989] [Do not announce to AS13335] [Do not announce to AS15133] [Do not announce to AS15169] [Do not announc…"
