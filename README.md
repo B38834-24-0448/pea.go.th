@@ -2,6 +2,92 @@
 # https://github.com/B38834-24-0448?tab=repositories
 # https://biodieselproductionstation.wordpress.com/
 # https://www.wikidata.org/wiki/Q5296#sitelinks-wikipedia
+<!-- wp:paragraph {"className":"heroSignIn authWelcomeMessage supModularHeaderSearchHeader-SMC-CONTACTUSLANDING"} -->
+<p class="heroSignIn authWelcomeMessage supModularHeaderSearchHeader-SMC-CONTACTUSLANDING">ขอขอบคุณที่ลงชื่อเข้าใช้ ETCWISIT ขณะนี้เราจะสามารถช่วยให้คุณได้รับความช่วยเหลือและการสนับสนุนที่รวดเร็วยิ่งขึ้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">เลือกผลิตภัณฑ์ที่คุณต้องการความช่วยเหลือ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>เราจะแสดงตัวเลือกการช่วยเหลือตนเองให้คุณก่อน ความช่วยเหลือเพิ่มเติมพร้อมใช้งานถ้าคุณต้องการ รวมถึงการสนทนาสดกับผู้เชี่ยวชาญของ Microsoft</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"supHomepageIcons"} -->
+<ul id="supHomepageIcons" class="wp-block-list supHomepageIcons"><!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">Microsoft 365</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">Office</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">Windows</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.xbox.com/en-US/contact-us/emerald">Xbox</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">อุปกรณ์ Surface</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">Copilot</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://admin.powerplatform.microsoft.com/">Dynamics 365</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://devicemanagement.portal.azure.com/?l=th.th-th">Intune</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://ms.portal.azure.com/?l=th.th-th#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview">Azure</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.serviceshub.microsoft.com/supportforbusiness/create">ผลิตภัณฑ์เซิร์ฟเวอร์</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="https://support.microsoft.com/contactus#">อุปกรณ์เสริมสำหรับพีซี</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a class="contactUsRoutingIcon" href="http://go.microsoft.com/fwlink/?LinkId=258669">โฆษณา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://support.microsoft.com/contactus#!">แสดงรายการผลิตภัณฑ์แบบขยาย</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">ตัวเลือกการสนับสนุนเพิ่มเติม</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><a href="https://admin.microsoft.com/Adminportal/Home?culture=th-th&amp;amp;ocid=PROD_Support_COMM_Amplify_UPS_Support_ContactusBizAssist1&amp;amp;ref=/homepage/:/getbusinessassist">ตัวช่วยทางธุรกิจ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>สมัครใช้งาน Business Assist เพื่อรับคำแนะนำจากผู้เชี่ยวชาญด้านธุรกิจขนาดเล็ก เป็นสมาชิกอยู่แล้วใช่หรือไม่&nbsp;<a href="https://support.microsoft.com/ems/auth/login?ru=%2Fcontactus&amp;prompt=select_account&amp;mkt=th-TH">ลงชื่อเข้าใช้ตอนนี้</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://admin.microsoft.com/Adminportal/Home?culture=th-th#/support">ความช่วยเหลือสําหรับผู้ดูแลระบบของธุรกิจขนาดเล็ก</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>เปิดคําขอรับบริการในศูนย์การจัดการ Microsoft 365 บริการนี้ไม่มีค่าใช้จ่าย</p>
+<!-- /wp:paragraph -->
+
 <!-- wp:paragraph -->
 <p>Our Projects</p>
 <!-- /wp:paragraph -->
