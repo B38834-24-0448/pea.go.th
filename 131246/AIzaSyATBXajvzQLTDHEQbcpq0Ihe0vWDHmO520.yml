@@ -1,3 +1,1271 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WebAIM Blog</title>
+	<atom:link href="https://webaim.org/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://webaim.org/blog</link>
+	<description>The WebAIM Web Accessibility Blog</description>
+	<lastBuildDate>Tue, 01 Sep 2026 04:01:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=7.0.4</generator>
+	<item>
+		<title>If you have to ask, is it accessible?</title>
+		<link>https://webaim.org/blog/if-you-have-to-ask-is-it-accessible/</link>
+					<comments>https://webaim.org/blog/if-you-have-to-ask-is-it-accessible/#respond</comments>
+		
+		<dc:creator><![CDATA[George Joeckel]]></dc:creator>
+		<pubDate>Mon, 31 Aug 2026 20:02:26 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2948</guid>
+
+					<description><![CDATA[As one of the researchers identifying products and tools for inclusion in the NCADEMI EdTech Accessibility Directory, VPATs have been on my mind. Most of the product vendors in the directory that do have VPATs do not provide them publicly, but instead require a potential customer to request the VPAT. This really surprised me, and [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">As one of the researchers identifying products and tools for inclusion in the <a href="https://ncademi.org/provide/directory/" data-type="link" data-id="https://ncademi.org/provide/directory/">NCADEMI EdTech Accessibility Directory</a>, VPATs have been on my mind. Most of the product vendors in the directory that do have VPATs do not provide them publicly, but instead require a potential customer to request the VPAT. This really surprised me, and my gut reaction was &#8220;Why would you allocate resources to creating a VPAT only to create a friction point for someone that is interested in giving you money?&#8221;</p>
+
+
+
+<h2 class="wp-block-heading">What is a VPAT?</h2>
+
+
+
+<p class="wp-block-paragraph">The&nbsp;Voluntary Product Accessibility Template (VPAT®) is a free template developed by the <a href="https://www.itic.org/policy/accessibility/vpat" data-type="link" data-id="https://www.itic.org/policy/accessibility/vpat">Information Technology Industry Council</a> that translates accessibility requirements and standards (e.g., in Section 508 and other legal frameworks) into actionable testing criteria for products and services. A completed product VPAT is called an Accessibility Conformance Report (ACR), but the terms &#8220;VPAT&#8221; and &#8220;ACR&#8221; are generally used interchangeably.</p>
+
+
+
+<h2 class="wp-block-heading">Who is it for?</h2>
+
+
+
+<p class="wp-block-paragraph">A <a href="https://www.itic.org/news-events/techwonk-blog/accessible-technology-a-call-for-more-than-the-minimum-in-federal-contracts" data-type="link" data-id="https://www.itic.org/news-events/techwonk-blog/accessible-technology-a-call-for-more-than-the-minimum-in-federal-contracts">2021 ITI post </a>explains the problem the VPAT was created to solve:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">Many employees living with disabilities rely on internet-, hardware-, and software-based accessibility solutions to help empower them in their workplaces. Although minimum <a href="https://www.section508.gov/manage/laws-and-policies" target="_blank" rel="noreferrer noopener">U.S.-based</a> and <a href="https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.01.01_60/en_301549v030101p.pdf" target="_blank" rel="noreferrer noopener">international</a> legal standards exist for accessible technologies, determining whether a product will fully meet employees’ needs can be challenging.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">A VPAT can be used by potential users or customers of a product to provide insight into the accessibility of that product.</p>
+
+
+
+<h2 class="wp-block-heading">Reasons for requiring customers to request a VPAT?</h2>
+
+
+
+<p class="wp-block-paragraph">To gain some insight into the vendor perspective, I asked a number of AI Agents to answer this question:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">&#8220;Why might a vendor legitimately need to require a potential client to request a product&#8217;s VPAT?&#8221;</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">I synthesized the results into the top three categories: <strong>customized information</strong>, <strong>competitive information</strong>, and <strong>correct information</strong>. Below are hypothetical statements that might represent a vendor&#8217;s concerns from each of these categories followed by a response to those statements.</p>
+
+
+
+<h2 class="wp-block-heading">Customized Information</h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">We have an extensive list of products and need to make sure that potential customers have the right information based on which version or configuration of a product they are considering.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">The VPAT template encourages vendors to indicate the relevant product version or configuration. In cases where accessibility is not substantively different across multiple versions or configurations, the VPAT can be scoped to document accessibility across these. This concern can best be addressed by vendors providing current and properly scoped VPATs rather than shifting the burden on potential customers to request these.</p>
+
+
+
+<h2 class="wp-block-heading">Competitive Information</h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">We can&#8217;t make proprietary information available publicly. We even require prospects to sign a non-disclosure agreement (NDA).</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">The California State University San Marcos addresses this directly on their <a href="https://www.csusm.edu/iits/services/accessibility/services/procurement/vpat.html" data-type="link" data-id="https://www.csusm.edu/iits/services/accessibility/services/procurement/vpat.html">VPAT Vendor Requirements</a> page:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">A VPAT does not contain or disclose proprietary information; instead, quality VPATs will faithfully represent a product&#8217;s current accessibility conformance, whether accessible or inaccessible.<br><br>The current accessibility conformance of any product is readily available to anyone accessing a product&#8217;s interface, and as such,&nbsp;<strong>CSUSM will not sign vendor NDAs to receive accessibility conformance documentation</strong>.</p>
+</blockquote>
+
+
+
+<h2 class="wp-block-heading">Correct Information</h2>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">We sell our products to customers from a range of countries across public and private industries. We need to make sure that our prospects get the right information.</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">Providing information to diverse customers can generally be addressed by the four editions of the VPAT—508, EU/EN 301 549, WCAG, and International—each aligned to different standards and contract requirements, and separate WCAG-version variants within those. In addition to providing VPATs, vendors can readily provide their prospects with additional guidance and information.</p>
+
+
+
+<h2 class="wp-block-heading">Is this really a pervasive issue?</h2>
+
+
+
+<p class="wp-block-paragraph">Given that the <a href="https://ncademi.org/provide/directory/" data-type="link" data-id="https://ncademi.org/provide/directory/">EdTech Accessibility Directory</a> project I&#8217;m working on only has 60 published products to date, I decided to gather some additional data. I generated a list of over 231 K-12 products that had at least &#8220;moderate usage&#8221; based on some AI-driven research. I then used Google Gemini to analyze these product&#8217;s web pages and documentation for VPAT references.<br><br>Of the 186 unique vendors across the 231 products, a reference to VPAT information was only detected for 35—about 1 in 5 (19%). And among these 35 vendors, more than 1 in 5 of them (22%) required a prospect to request a VPAT rather than posting the VPAT publicly. While not a substantive assessment, this AI-driven research does suggest that access to product VPATs may be a challenge.</p>
+
+
+
+<h2 class="wp-block-heading">What about the vendors that did provide a VPAT?</h2>
+
+
+
+<p class="wp-block-paragraph">I wish I had better news to share here. While the early stages of the directory still has a limited set of products, of the 27 vendors thus far that have provided public access to their VPATs (thus implicitly demonstrating an awareness of accessibility guidelines), 6 of them provided VPAT documents that failed an accessibility evaluation<br><br>While publishing a VPAT does not mean that the relevant product is accessible, I want to acknowledge the 21 K12 EdTech vendors that did provide publicly-available, accessible VPATs!</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.adobe.com">Adobe</a> (Acrobat) </li>
+
+
+
+<li><a href="https://bookcreator.com">Book Creator</a></li>
+
+
+
+<li><a href="https://www.brainingcamp.com">Braining Camp</a></li>
+
+
+
+<li><a href="https://code.org">Code.org</a></li>
+
+
+
+<li><a href="https://cograder.com">CoGrader</a></li>
+
+
+
+<li><a href="https://www.desmos.com">Desmos</a></li>
+
+
+
+<li><a href="https://www.ebsco.com">EBSCO Information Services</a></li>
+
+
+
+<li><a href="https://edpuzzle.com">Edpuzzle</a></li>
+
+
+
+<li><a href="https://edu.google.com/workspace-for-education/classroom/">Google Classroom</a></li>
+
+
+
+<li><a href="https://www.instructure.com">Instructure</a> (Canvas LMS) </li>
+
+
+
+<li><a href="https://kahoot.com">Kahoot!</a></li>
+
+
+
+<li><a href="https://education.lego.com">LEGO Education</a></li>
+
+
+
+<li><a href="https://www.mathplayground.com">Math Playground</a></li>
+
+
+
+<li><a href="https://www.microsoft.com">Microsoft</a></li>
+
+
+
+<li><a href="https://newsela.com">Newsela</a></li>
+
+
+
+<li><a href="https://www.ngpf.org">Next Gen Personal Finance (NGPF)</a></li>
+
+
+
+<li><a href="https://progresslearning.com">Progress Learning</a><a href="https://www.pltw.org">Project Lead The Way (PLTW)</a></li>
+
+
+
+<li><a href="https://www.swank.com">Swank Motion Pictures</a> (Swank Digital Campus) </li>
+
+
+
+<li><a href="https://www.typing.com">Typing.com</a> (Teaching.com) </li>
+
+
+
+<li><a href="https://www.wevideo.com">WeVideo</a></li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">Where do we go from here?</h2>
+
+
+
+<p class="wp-block-paragraph">The infrastructure for doing this right already exists. <a href="https://acreditor.section508.gov/" data-type="link" data-id="https://acreditor.section508.gov/">OpenACR</a>, built by <a href="https://www.gsa.gov/" data-type="link" data-id="https://www.gsa.gov/">GSA</a> and <a href="https://civicactions.com/" data-type="link" data-id="https://civicactions.com/">CivicActions</a>, turns VPAT data into searchable YAML and JSON so buyers can compare vendors instead of digging through VPATs individually. Education institutions that take this seriously already expect more than a bare VPAT—best practice pairs it with a plain-language accessibility statement and, where a product only partially supports critical criteria, a remediation roadmap with an actual timeline.<br><br>Please share your experiences and thoughts in the comments below.<br><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/if-you-have-to-ask-is-it-accessible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>An Extension is Not an Excuse</title>
+		<link>https://webaim.org/blog/an-extension-is-not-an-excuse/</link>
+		
+		<dc:creator><![CDATA[John Northup]]></dc:creator>
+		<pubDate>Thu, 28 May 2026 21:20:02 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2946</guid>
+
+					<description><![CDATA[The Department of Health and Human Services recently announced a one-year extension of the compliance dates for web content and mobile app accessibility requirements under Section 504 of the Rehabilitation Act. The requirements themselves are not new in substance: covered recipients of HHS federal financial assistance must make covered web content and mobile apps conform [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The Department of Health and Human Services recently announced a <a href="https://public-inspection.federalregister.gov/2026-09266.pdf">one-year extension of the compliance dates for web content and mobile app accessibility requirements</a> under Section 504 of the Rehabilitation Act. The requirements themselves are not new in substance: covered recipients of HHS federal financial assistance must make covered web content and mobile apps conform to WCAG 2.1 Level AA. What changed is the timeline. Recipients with 15 or more employees now have until May 11, 2027, and recipients with fewer than 15 employees now have until May 10, 2028. This follows an almost identical extension for ADA Title II.</p>
+
+
+
+<p class="wp-block-paragraph">For many accessibility advocates, this delay is understandably frustrating. People with disabilities have already waited far too long for equal access to digital services. Another year is not an abstraction. It may mean another year of inaccessible patient portals, appointment systems, application forms, mobile apps, PDFs, and online health information. These are not minor inconveniences. In many cases, these are the digital front doors to health care, public benefits, education, social services, and other essential programs.</p>
+
+
+
+<p class="wp-block-paragraph">It is also fair to ask why more time should be necessary. WCAG 1.0 has been around as long as anyone up to age 30 can remember. WCAG 2.0 has been with us since 2008. WCAG 2.1, the standard adopted in the HHS rule, was published in 2018. The web has been redesigned, rebuilt, replatformed, rebranded, and relaunched many times since then. Every inaccessible redesign has been a lost opportunity. Every inaccessible PDF uploaded last week is not a relic of the 1990s. Every new form that cannot be completed with a keyboard, every button without an accessible name, every low-contrast interface, and every inaccessible mobile app workflow represents a choice, whether intentional or not, to continue excluding some users.</p>
+
+
+
+<p class="wp-block-paragraph">Recent data make the frustration even sharper. As my colleague, Christopher Phillips, reported in this space last month, the 2026 WebAIM Million report found that among the top one million website home pages, <a href="https://webaim.org/blog/tolerating-inaccessibility/">the average number of WAVE-detected accessibility errors rose about 10% from 2025 to 2026</a>. Christopher rightly notes that this means the web became less accessible than it was a year ago, at least by this measure.</p>
+
+
+
+<p class="wp-block-paragraph">That should bother us. It is difficult to ask disabled users for patience when the broader web is not merely moving slowly, but in some measurable ways moving backward. Patience is much easier to request from the people who are not blocked by the form, the portal, the document, or the checkout process.</p>
+
+
+
+<p class="wp-block-paragraph">And yet, there is another reality that accessibility professionals encounter every day. Organizations are not simply sitting on a secret pile of accessible code and choosing not to deploy it. Some website owners only recently learned what digital accessibility requires. Some built their sites quickly with low-cost tools. Some bought scheduling systems, patient portals, learning management systems, donation platforms, document management systems, or mobile apps without realizing that accessibility would become a serious barrier later. Some inherited thousands of inaccessible PDFs. Some have only one person responsible for the website, and that person may also be responsible for communications, social media, IT support, and refilling the copier paper when it jams.</p>
+
+
+
+<p class="wp-block-paragraph">This does not excuse inaccessibility. It does help explain why meaningful accessibility work can take time.</p>
+
+
+
+<p class="wp-block-paragraph">HHS itself points to practical concerns that many organizations face. The Department notes that recipients vary widely in size, resources, location, technical support, and mission. It also cites concerns about the time and cost of PDF remediation, uncertainty about how compliance will be measured, and the difficulty of ensuring that third-party contractors make web content conform to WCAG 2.1.</p>
+
+
+
+<p class="wp-block-paragraph">Anyone who has worked in accessibility consulting will recognize those issues. Accessibility is not usually fixed by one person running one automated scan on one afternoon. Real progress often requires auditing, remediation, design changes, development changes, content changes, procurement changes, staff training, vendor pressure, policy updates, and ongoing monitoring. Organizations must not only fix what already exists; they must also stop creating new barriers. That is often the harder cultural shift.</p>
+
+
+
+<p class="wp-block-paragraph">So yes, some organizations need time. But time for what? A deadline extension may be understandable as a practical matter, but it is only defensible if the additional year is used for meaningful progress. It must not become another year of waiting, deferring, debating, or hoping the problem will somehow become smaller on its own.</p>
+
+
+
+<p class="wp-block-paragraph">The HHS notice includes one comment that should stop us cold. A virtual mental health care provider argued that the 2024 rule would impose substantial financial burdens on health care providers “without providing any material benefits.” HHS explicitly disagreed, noting that especially in telehealth, if a person with a disability cannot access the web content or a mobile app from a telehealth provider receiving federal funds, this is not just a technical issue, but a denial of health care by a recipient of federal dollars.</p>
+
+
+
+<p class="wp-block-paragraph">That phrase, “without providing any material benefits,” reveals the deeper problem. Accessibility can look optional only when the people excluded by inaccessible systems are treated as invisible. For a health care provider, the material benefit should be obvious: patients can get care.</p>
+
+
+
+<p class="wp-block-paragraph">This is where organizations need to be honest with themselves. The legal deadline may have moved, but the human needs did not. A blind patient who cannot use a provider’s portal does not become less blind because the compliance date changed. A person with limited dexterity who cannot complete an online form does not receive better service because the organization has another year. A Deaf patient who needs accessible video content, a low-vision user who needs sufficient contrast and text resizing, or a screen reader user who needs a properly labeled form field is not asking for advanced features. They are asking to use the service.</p>
+
+
+
+<p class="wp-block-paragraph">The extension should therefore be treated not as a reprieve from accessibility, but as a reprieve from panic. Panic produces rushed audits, superficial fixes, inaccessible redesigns, and the kind of magical thinking that leads people to believe that one simplistic overlay can solve years of inaccessible design and development. A thoughtful year can produce something much better: a prioritized plan, trained staff, better procurement practices, improved templates, cleaner content workflows, more accessible third-party systems, and measurable reduction of barriers.</p>
+
+
+
+<p class="wp-block-paragraph">Organizations that are covered by these requirements should use the additional time wisely.</p>
+
+
+
+<p class="wp-block-paragraph">First, prioritize the services that matter most. Not every page, document, or app screen has the same immediate impact. Appointment scheduling, patient intake forms, benefit applications, payment systems, contact forms, complaint processes, emergency information, and required documents should rise to the top. If a barrier prevents someone from receiving care or participating in a program, it should not wait until the end of the project plan.</p>
+
+
+
+<p class="wp-block-paragraph">Second, stop creating new inaccessible content. An organization that spends the next year remediating old PDFs while continuing to publish new inaccessible PDFs is bailing water with the faucet still running. Templates, authoring practices, document workflows, and publishing permissions all matter.</p>
+
+
+
+<p class="wp-block-paragraph">Third, take procurement seriously. Many accessibility problems enter organizations through third-party products. Website platforms, form builders, scheduling systems, mobile apps, map widgets, payment processors, document systems, and embedded media players can all create barriers. Organizations should ask vendors direct questions, require credible accessibility documentation (such as a VPAT), include accessibility in contracts, and test important workflows before purchase. “Our vendor handles that” is not a strategy unless the vendor actually handles it.</p>
+
+
+
+<p class="wp-block-paragraph">Fourth, train the people who create and maintain the content. Accessibility cannot live only with the web developer or an outside consultant. The person who writes headings, adds links, uploads PDFs, creates social media graphics, posts videos, or builds forms can either reduce barriers or multiply them. Basic training for content authors can prevent many common problems before they reach the public.</p>
+
+
+
+<p class="wp-block-paragraph">Finally, measure progress honestly. No organization will fix everything in the first month. But by the end of the next year, organizations should be able to show what they tested, what they fixed, what remains, who is responsible, and how accessibility will be maintained. Progress does not need to be perfect, but it does need to be real.</p>
+
+
+
+<p class="wp-block-paragraph">The disability community has heard promises before. “We need more time” is only credible when it is paired with action. “We are working on it” only means something when barriers are actually being removed. The deadline moved. The civil rights obligation did not. For organizations that are serious about accessibility, the approach should not be how little they can do before 2027 or 2028, but <em>how much</em>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tolerating Inaccessibility</title>
+		<link>https://webaim.org/blog/tolerating-inaccessibility/</link>
+					<comments>https://webaim.org/blog/tolerating-inaccessibility/#comments</comments>
+		
+		<dc:creator><![CDATA[Christopher Phillips]]></dc:creator>
+		<pubDate>Thu, 30 Apr 2026 17:50:24 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2896</guid>
+
+					<description><![CDATA[The latest WebAIM Million report shows that detectable homepage accessibility errors increased over the past year. This article considers what those results may reveal about the organizational and societal forces that continue to deprioritize accessibility, and challenges us to imagine a world where inaccessibility is no longer tolerated.]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">The&nbsp;recent&nbsp;<a href="https://webaim.org/projects/million/" target="_blank" rel="noreferrer noopener">2026 WebAIM Million report</a>&nbsp;showed that across the top 1,000,000 websites,&nbsp;the number of distinct accessibility errors detected by WAVE rose from 51&nbsp;in the 2025 report&nbsp;to 56.1.&nbsp;&nbsp;Despite an&nbsp;<a href="https://trends.google.com/explore?q=%2522digital%2520accessibility%2522&amp;date=today%205-y&amp;geo=US" target="_blank" rel="noreferrer noopener">increase in interest</a>&nbsp;and the tireless efforts of digital accessibility professionals all over the world,&nbsp;the data&nbsp;indicate&nbsp;that&nbsp;the&nbsp;web is less accessible&nbsp;than it was&nbsp;a year ago.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">It is disheartening to acknowledge such a significant setback from hard-won progress, but&nbsp;I’m&nbsp;hopeful this can also be an opportunity to consider what we might do differently going forward. The hardest thing for&nbsp;me&nbsp;about the latest report is the reminder that we live in a world where it&nbsp;remains&nbsp;broadly acceptable (or at least tolerable) that the top one million home pages average&nbsp;<strong>56.1 potential barriers</strong>&nbsp;for&nbsp;<em>a specific group of people</em>.&nbsp;Why is widespread inaccessibility still acceptable for disabled users?</p>
+
+
+
+<p class="wp-block-paragraph">I have felt unsettled recently by the adage, “Every system is perfectly designed to get the results it gets.” The lack of digital accessibility is the result of a system that was clearly not designed to prioritize accessibility. That said, how do we&nbsp;impact&nbsp;systemic change, and what “system” are we even talking about?</p>
+
+
+
+<p class="wp-block-paragraph">There is important work already underway to incorporate accessibility more into processes related to training,&nbsp;purchasing&nbsp;practices, hiring processes, technical standards, and policy. This work is essential, but why is accessibility missing from so many of those systems in the first place?&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Digital inaccessibility is often framed as an awareness, technical, training, or legal problem—and it is&nbsp;all of&nbsp;those things. But that is only part of the story; accessibility barriers persist not only because of&nbsp;these&nbsp;challenges, but also because their impact on disabled users&nbsp;remains&nbsp;easy for so many organizations to overlook.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">There is ample evidence of people with disabilities being treated differently than people without disabilities in employment, education, housing, and healthcare. Findings from the&nbsp;WebAIM&nbsp;Million project are consistent with broader societal patterns where accessibility is too often ranked below so many other competing priorities.</p>
+
+
+
+<h2 class="wp-block-heading">Where Do We Go From Here? </h2>
+
+
+
+<p class="wp-block-paragraph">Approaching accessibility from a disability rights framework is not new, but it is important to remember that the work&nbsp;we&nbsp;are doing as digital accessibility&nbsp;practitioners&nbsp;is part of a much larger movement that has been doing this work for&nbsp;a very long&nbsp;time. There are so many people and organizations doing incredible work to break down barriers in other areas that we can work with and learn from.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">It is incredibly frustrating to see the same set of common issues persist year after year, when so many proven&nbsp;technical solutions&nbsp;are readily available. When we recognize that web accessibility is not only a technical challenge,&nbsp;we can&nbsp;explore new ways to address the cultural, organizational, and moral forces that allow barriers to persist. Consider for example:</p>
+
+
+
+<ul start="1" class="wp-block-list">
+<li>What can we learn from groups like&nbsp;<a href="https://adapt.org/" target="_blank" rel="noreferrer noopener">ADAPT</a>&nbsp;and&nbsp;their&nbsp;<a href="https://www.chicagohistory.org/adapt-protesting-for-disability-rights/" target="_blank" rel="noreferrer noopener">fight for accessible transportation</a>?&nbsp;&nbsp;</li>
+
+
+
+<li>How did the disability rights community organize, and what key events led to the passage of the&nbsp;<a href="https://www.eeoc.gov/rehabilitation-act-1973" target="_blank" rel="noreferrer noopener">Rehabilitation Act of 1973</a>? What happened from there to lay the groundwork for the&nbsp;<a href="https://www.ada.gov/" target="_blank" rel="noreferrer noopener">Americans with Disabilities Act</a>?</li>
+
+
+
+<li>What are the top priorities of disability advocacy organizations today?&nbsp;&nbsp;</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Change can happen, but moving beyond the status quo of inaccessibility tolerance will require broader and more human-centered approaches. The work required for this type of change is different, messier, and often doesn’t yield immediate results—but consider what it would look like to do digital accessibility work in a world that no longer tolerates inaccessibility. That is something to get excited about!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/tolerating-inaccessibility/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ask AIMee: An accessible accessibility-focused AI chatbot</title>
+		<link>https://webaim.org/blog/ask-aimee/</link>
+					<comments>https://webaim.org/blog/ask-aimee/#comments</comments>
+		
+		<dc:creator><![CDATA[Jared Smith]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2026 16:49:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2876</guid>
+
+					<description><![CDATA[We&#8217;re happy to introduce AIMee &#8211; an easy-to-use, AI-powered conversational chatbot focused on accessibility. AIMee has been designed to be highly accessible to users with disabilities. Ask her accessibility questions to get quick answers and guidance. The name &#8220;AIMee&#8221; plays off of the &#8220;AIM&#8221; (Accessibility In Mind) from &#8220;WebAIM&#8221; and also &#8220;AI&#8221;. Here are some [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph"><img decoding="async" src="https://webaim.org/AIMee/media/AIMee2.svg" alt="Ask AIMee logo" class="floatright border" style="width:170px;padding:5px;">We&#8217;re happy to introduce <a href="https://webaim.org/AIMee/">AIMee</a> &#8211; an easy-to-use, AI-powered conversational chatbot focused on accessibility. AIMee has been designed to be highly accessible to users with disabilities. Ask her accessibility questions to get quick answers and guidance.</p>
+
+
+
+<p class="wp-block-paragraph">The name &#8220;AIMee&#8221; plays off of the &#8220;AIM&#8221; (Accessibility In Mind) from &#8220;WebAIM&#8221; and also &#8220;AI&#8221;.</p>
+
+
+
+<p class="wp-block-paragraph">Here are some examples of the types of things you can ask AIMee:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Paste in code that has accessibility issues and ask AIMee to provide recommendations for code fixes.</li>
+
+
+
+<li>Provide a description of your organization and ask AIMee to generate a draft accessibility policy.</li>
+
+
+
+<li>Ask AIMee to explain or summarize an accessibility concept or a WCAG success criterion.</li>
+
+
+
+<li>Ask AIMee to provide a list of resources on a particular accessibility topic.</li>
+
+
+
+<li>Provide an accessibility technique and ask AIMee to generate a checklist for testing or implementing it.</li>
+
+
+
+<li>Ask AIMee to test your knowledge by generating a list of questions about WCAG or some other accessibility concept.</li>
+
+
+
+<li>Ask AIMee to generate an easier, more understandable version of text you provide.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">We recognize that chatbots, and even accessibility-focused chatbots, are not entirely unique. And we recognize that AI can often provide guidance that is not accurate or supportive of individuals with disabilities. AIMee primarily uses the Qwen 3 Coder LLM (Large Language Model) with additional guardrails and structures in place to support more accurate and technically sound answers in comparison to many other models. As with all AI, hallucinations and incorrect answers can occur. AIMee&#8217;s answers should be verified and used at your own risk.</p>
+
+
+
+<p class="wp-block-paragraph">We invite you to <a href="https://webaim.org/AIMee/">ask AIMee</a> the next time you have an accessibility question. If there is sufficient interest, we may add additional features, such as file uploading/downloading, save functionality for chat histories, etc.</p>
+
+
+
+<p class="wp-block-paragraph">If you have feedback for us, please comment below. </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/ask-aimee/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>A New Path for Digital Accessibility?</title>
+		<link>https://webaim.org/blog/a-new-path/</link>
+					<comments>https://webaim.org/blog/a-new-path/#comments</comments>
+		
+		<dc:creator><![CDATA[George Joeckel]]></dc:creator>
+		<pubDate>Fri, 27 Feb 2026 19:02:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2842</guid>
+
+					<description><![CDATA[Please note This post will explore how an adaptive, intelligent system could empower users with disabilities to optimize their experience in digital environments. Even were such a system available tomorrow, developers of digital content, services, and products would still be responsible for providing equal access to ALL users. Consider a few of the many exciting [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<div class="note">
+<div class="title">Please note</div>
+<p>This post will explore how an adaptive, intelligent system could empower users with disabilities to optimize their experience in digital environments. Even were such a system available tomorrow, developers of digital content, services, and products would still be responsible for providing equal access to ALL users.</p>
+</div>
+
+
+
+<p class="wp-block-paragraph">Consider a few of the many exciting advances in assistive technology and digital accessibility over the past few years:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://www.hearingloss.org/find-help/auracast/"><strong>Auracast</strong></a>: a technology that enables one device to transmit sound (e.g., language translation) wirelessly to multiple users with a compatible device, faster than traditional Bluetooth, without requiring pairing,</li>
+
+
+
+<li><a href="https://www.playstation.com/en-us/accessories/access-controller/"><strong>PlayStation Access Controller</strong></a>: a highly customizable controller kit designed for gamers with limited motor control,</li>
+
+
+
+<li><strong><a href="https://commission.europa.eu/strategy-and-policy/policies/justice-and-fundamental-rights/disability/european-accessibility-act-eaa_en" target="_blank" rel="noreferrer noopener">The European Accessibility Act (EAA)</a></strong>: digital accessibility legislation that applies to both the hardware and software of digital products and services.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">There has also been an enormous increase in the availability, capability, and use of artificial intelligence (AI). AI methodologies such as natural language processing, computer vision, and machine learning are actively transforming both assistive technologies and digital accessibility practices. As <a href="https://pubmed.ncbi.nlm.nih.gov/40077118/">Giansanti and Pirrera (2025)</a> observe:</p>
+
+
+
+<blockquote class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<p class="wp-block-paragraph">&#8220;AI itself is expanding the concept of assistive technology, shifting from traditional tools to intelligent systems capable of learning and adapting to individual needs. This evolution represents a fundamental change in assistive technology, emphasizing dynamic, adaptive systems over static solutions.&#8221;</p>
+</blockquote>
+
+
+
+<p class="wp-block-paragraph">I’d like to propose a term for the space where assistive technology, digital accessibility, and artificial intelligence converge: <strong>Intelligent Digital Accessibility Assistance</strong>.</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-1024x1024.png" alt="" class="wp-image-2844" style="width:371px;height:auto" srcset="https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-1024x1024.png 1024w, https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-300x300.png 300w, https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-150x150.png 150w, https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-768x768.png 768w, https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-1536x1536.png 1536w, https://webaim.org/blog/wp-content/uploads/2026/02/intelligent-digital-accessibility-assitance-2048x2048.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+<p class="wp-block-paragraph">As a thought experiment, let’s explore the concept of a proactive, personalized mediator that provides assistance by empowering a user to adapt, translate, and restructure digital content and environments to match their unique preferences. I will call this an <strong>Intelligent Digital Accessibility Assistant</strong> (<strong>IDAA)</strong>.</p>
+
+
+
+<h2 class="wp-block-heading">User Configuration and Training</h2>
+
+
+
+<p class="wp-block-paragraph">Each user would help their IDAA develop and cultivate a comprehensive understanding of their environment, needs, preferences, abilities, and disabilities. In early versions, setup may require a manual process to understand the user&#8217;s assistive technology, preferences for interacting with digital content, and digital activities. However, as these Intelligent Assistants mature, the setup could happen automatically by observing and learning a user’s requirements and preferences. The user could then choose to have the assistant automatically adapt based on an ongoing analysis of their behavior, either autonomously, or by providing recommendations for them to authorize or reject.</p>
+
+
+
+<h3 class="wp-block-heading">Tools</h3>
+
+
+
+<p class="wp-block-paragraph">In the setup stage,&nbsp; a blind person might specify that they use both software (e.g., screen reader) and hardware (e.g., braille display) assistive technology. The Assistant would need to know details such as software version or product model number and any customizations made to the default settings. A user could then elect to have the Assistant notify the user with real-time developments related to their assistive technology: changes to a user interface, new features, software/firmware updates, etc. An Assistant might also be tasked with identifying and sharing emerging best practices for a user&#8217;s tools.</p>
+
+
+
+<h3 class="wp-block-heading">Content</h3>
+
+
+
+<p class="wp-block-paragraph">To help the IDAA understand their general preferences, a user could grant permissions that would allow the Assistant to monitor and analyze specified interactions with digital content. For example, when a screen reader encounters a legacy website with poor semantic markup, the user might instruct the Assistant to analyze the visual layout and text hierarchy to infer the missing structure required by their assistive technology. Or when reading an email with a significant amount of visual formatting styles (italics, bold, strikethrough), a user might ask the Assistant to dynamically update their screen reader’s settings to present formatted text in a distinctive speech style.</p>
+
+
+
+<h3 class="wp-block-heading">Activities</h3>
+
+
+
+<p class="wp-block-paragraph">A user could also configure settings for different session &#8220;modes&#8221;. For example, in &#8220;research&#8221; mode a user could have the IDAA rapidly scan an academic paper, generate a jargon-free summary, and generate tables for any visual charts. Or a user might switch to &#8220;entertainment&#8221; mode to watch a movie. The Assistant would silence audio notifications for non-critical messages, and generate a log of messages to review later. While an Assistant would likely have some default modes, it could also help a user build custom modes based on their engagement preferences for additional types of digital content and/or specialized virtual environments.</p>
+
+
+
+<h2 class="wp-block-heading">User-driven Accessibility</h2>
+
+
+
+<p class="wp-block-paragraph">After establishing a baseline awareness of a user&#8217;s current digital engagement practices, an Assistant&#8217;s ongoing encoding process would continue to optimize its alignment with the user. To facilitate this process a user might instruct an Assistant to:</p>
+
+
+
+<ul class="wp-block-list">
+<li>Develop recommendations for the expansion, refinement, and revision of its context awareness.</li>
+
+
+
+<li>Propose new capabilities for the user to authorize.</li>
+
+
+
+<li>Conduct web research to identify new accessibility resources aligned with the user&#8217;s preferences.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">In such an environment, the degree of collaboration with an Assistant is truly open-ended, and completely determined by the user.</p>
+
+
+
+<h2 class="wp-block-heading">Conclusion</h2>
+
+
+
+<p class="wp-block-paragraph">As a daily user of artificial intelligence, and a researcher seeking to understand the rapidly-evolving scope of its capabilities, I feel confident in stating that the availability of something like an Intelligent Digital Accessibility Assistant, is a &#8220;when&#8221;, not an &#8220;if&#8221;. There are significant concerns with AI that must be addressed: equity of access, bias in training data, environmental impacts, and reliability. And there is also a growing potential for a user with a disability to partner with AI to expand their access to the digital world.</p>
+
+
+
+<p class="wp-block-paragraph">I hope you found this exploration thought-provoking and inspiring, and that you will share your thoughts, concerns, and questions in the comments section.</p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/a-new-path/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>2026 Predictions: The Next Big Shifts in Web Accessibility</title>
+		<link>https://webaim.org/blog/2026-predictions/</link>
+					<comments>https://webaim.org/blog/2026-predictions/#comments</comments>
+		
+		<dc:creator><![CDATA[John Northup]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2025 23:22:37 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2834</guid>
+
+					<description><![CDATA[I’ve lived long enough, and worked in accessibility long enough, to have honed a healthy skepticism when I hear about the Next Big Thing. I’ve seen lush website launches that look great, until I activate a screen reader. Yet, in spite of it all, accessibility does evolve, but quietly rather than dramatically. As I gaze [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">I’ve lived long enough, and worked in accessibility long enough, to have honed a healthy skepticism when I hear about the Next Big Thing. I’ve seen lush website launches that look great, until I activate a screen reader.</p>
+
+
+
+<p class="wp-block-paragraph">Yet, in spite of it all, accessibility <em>does</em> evolve, but quietly rather than dramatically. As I gaze ahead to 2026, several trends are already taking shape. These are more than theories and ideas; they are practical shifts that website owners are beginning to feel today.</p>
+
+
+
+<p class="wp-block-paragraph">Here are some likely, meaningful changes on the near horizon.</p>
+
+
+
+<h2 class="wp-block-heading">1. AI Will Improve Accessibility Tools—But Not Replace Expertise</h2>
+
+
+
+<p class="wp-block-paragraph">I have to admit, over the past year, ChatGPT has become my confidante, advisor, reality checker, summarizer, and occasional Spanish interpreter. It’s like having a faithful human assistant who never grows weary of my repeated inquiries. But like a human assistant, it sometimes takes a few tries to get it right. That’s why I see AI more as a valuable helper than a project manager. It’s changing how accessibility testing tools work and getting better at identifying patterns, grouping related issues, and prioritizing findings. This trend will continue.</p>
+
+
+
+<p class="wp-block-paragraph">What will <em>not</em> happen is full automation of accessibility evaluation. I do not trust it with determining whether alternative text is meaningful, evaluating interaction flow and user expectations, or understanding context and intent.</p>
+
+
+
+<p class="wp-block-paragraph">In other words, AI can help raise some flags quickly, but I do not trust it to decide whether an experience actually works for a human being.</p>
+
+
+
+<p class="wp-block-paragraph">So, the real shift for 2026 will be AI’s contribution to workflow efficiency, not replacement. Organizations that pair smarter tools with knowledgeable human reviewers will gain speed and consistency. Those that expect AI to do it for them will continue to miss critical barriers—just faster than before.</p>
+
+
+
+<h2 class="wp-block-heading">2. WCAG 2.2 Will Increasingly Become the Procurement Baseline</h2>
+
+
+
+<p class="wp-block-paragraph">WCAG 2.2 may no longer feel new to the industry, but many organizations are only beginning to adopt it. WebAIM began offering it to our evaluation customers as the default as soon as it was finalized, but some customers whose internal standards specify 2.1 remain hesitant. When a new version is published, there’s always an interim time when, to some, the old version still feels current and the new version feels experimental and over–the-top. During 2026, I’d like to see the landscape shift so that 2.1 feels old (which it is) and 2.2 just feels current and normal. There’s nothing really revolutionary about 2.2; the changes largely address real barriers that users experience daily: Focus appearance, accessible authentication, dragging alternatives, consistent help…</p>
+
+
+
+<p class="wp-block-paragraph">It is up to those of us in the industry to lead this shift. In the coming year, I expect WCAG 2.2 to become the <em>default</em> expectation in procurement language, RFPs, and accessibility evaluation.</p>
+
+
+
+<h2 class="wp-block-heading">3. Native HTML Will Gradually Come Back</h2>
+
+
+
+<p class="wp-block-paragraph">After years of JavaScript-heavy, ARIA-laden custom widgets, I’m noticing a subtle and gradual shift back toward native HTML elements and browser-supported behaviors. Native HTML elements have built-in accessibility support, receive ongoing browser improvements, work more predictably across assistive technologies, and reduce the need for complex ARIA patterns.</p>
+
+
+
+<p class="wp-block-paragraph">WebAIM’s standard accessibility training presentation implores developers to “just use a button” instead of creating clickable <code>&lt;span></code> or <code>&lt;div></code> elements with JavaScript events and ARIA layered on. Out in the field, I’m seeing this becoming less of an issue. However, I regularly see custom widgets implemented where a standard <code>&lt;select></code> or <code>&lt;details></code>/<code>&lt;summary></code> would do the job.</p>
+
+
+
+<p class="wp-block-paragraph">So, in 2026, I expect to see fewer fully custom widgets and more careful use of <code>&lt;button></code>, <code>&lt;dialog></code>, <code>&lt;details></code>/<code>&lt;summary></code>, <code>&lt;select></code>, and other form controls—often styled heavily (and that’s fine), but functionally native. Teams that embrace native patterns will ship faster, debug less, and maintain accessibility more reliably than those rebuilding basic controls from scratch. I’ll be watching the <a href="https://webaim.org/projects/million/" target="_blank" rel="noreferrer noopener">WebAIM Million</a> to see how this prediction plays out.</p>
+
+
+
+<h2 class="wp-block-heading">4. Accessibility Debt Will Be Recognized as a Business Risk</h2>
+
+
+
+<p class="wp-block-paragraph">Accessibility barriers accumulate quietly through redesigns, framework updates, staff turnover, and rushed deadlines. The result is accessibility debt—a backlog of small issues that eventually snowball into large ones. The larger the backlog gets, the more onerous it appears.</p>
+
+
+
+<p class="wp-block-paragraph">However, more organizations are beginning to recognize that accessibility debt increases legal exposure (especially those organizations that are in litigation), slows down development cycles, undermines user trust, and costs more to remediate later.</p>
+
+
+
+<p class="wp-block-paragraph">Over the course of 2026, forward-thinking organizations will increasingly treat accessibility maintenance as ongoing infrastructure, not a one-time remediation project. Regular evaluations, regression testing, and staff training will increasingly be understood as risk management more than an optional “nice-to-have.”</p>
+
+
+
+<h2 class="wp-block-heading">5. Native App Accessibility Will Influence Web Practices More Directly</h2>
+
+
+
+<p class="wp-block-paragraph">Native app accessibility is no longer a separate conversation—it’s actively shaping web accessibility thinking. Concepts like clear, concise control names, predictable focus management, gesture alternatives, and logical reading order apply equally to web and native platforms. As teams evaluate both web and mobile products, accessibility practices will converge around shared principles rather than platform-specific checklists. This cross-pollination will benefit users and challenge teams to think beyond traditional “web-only” paradigms and assumptions.</p>
+
+
+
+<h2 class="wp-block-heading">6. User Preferences Will Matter More Than Page-Level Settings</h2>
+
+
+
+<p class="wp-block-paragraph">Users increasingly rely on system and browser preferences, like prefers-reduced-motion, high contrast, forced colors, dark mode, text size, and default zoom. During 2026, the accessibility industry will begin to treat the idea of a single “accessible” design as only the beginning, instead of the destination, and increasingly anticipate and respect user preferences across environments. Designs that override system settings, hard-code colors, or ignore user preferences will feel increasingly brittle—and increasingly inaccessible to users.</p>
+
+
+
+<h2 class="wp-block-heading">7. WCAG 3 Thinking Will Influence Practice Before the Standard Arrives</h2>
+
+
+
+<p class="wp-block-paragraph">WCAG 3 is still years away, but its underlying philosophy—focusing on outcomes, tasks, and usability rather than rigid pass/fail criteria—is already influencing how accessibility professionals think.</p>
+
+
+
+<p class="wp-block-paragraph">We can expect more emphasis on task completion, more discussion of severity and impact, greater recognition of partial conformance, and broader inclusion of cognitive and learning considerations. Organizations that adopt this mindset early will be better prepared for future standards while delivering better experiences right now.</p>
+
+
+
+<h2 class="wp-block-heading">Looking Ahead</h2>
+
+
+
+<p class="wp-block-paragraph">Accessibility progress rarely makes headlines. It happens through careful decisions, better defaults, and sustained attention to user needs. The most impactful changes coming next year are practical, structural, and long overdue—not the stuff that grabby news items are made of, but the kind of improvements that users will feel nonetheless.</p>
+
+
+
+<p class="wp-block-paragraph">Organizations that succeed in accessibility will be those that invest in people, not just tools, treat accessibility as a journey rather than a destination, build on native HTML foundations, recognize and respect user preferences, and focus on practical outcomes.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/2026-predictions/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Word and PowerPoint Alt Text Roundup</title>
+		<link>https://webaim.org/blog/word-and-powerpoint-alt-text-roundup/</link>
+					<comments>https://webaim.org/blog/word-and-powerpoint-alt-text-roundup/#comments</comments>
+		
+		<dc:creator><![CDATA[Jon Whiting]]></dc:creator>
+		<pubDate>Fri, 31 Oct 2025 19:14:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2806</guid>
+
+					<description><![CDATA[Introduction In Microsoft Word and PowerPoint, there are many types of non-text content that can be given alternative text. We tested the alternative text of everything that we could think of in Word and PowerPoint and then converted these files to PDFs using Adobe&#8217;s Acrobat PDFMaker (the Acrobat Tab on Windows), Adobe&#8217;s Create PDF cloud [&#8230;]]]></description>
+										<content:encoded><![CDATA[<section id="intro">
+<h2>Introduction</h2>
+<p>In Microsoft Word and PowerPoint, there are many types of non-text content that can be given alternative text. We tested the alternative text of everything that we could think of in Word and PowerPoint and then converted these files to PDFs using Adobe&#8217;s Acrobat PDFMaker (the Acrobat Tab on Windows), Adobe&#8217;s Create PDF cloud service (the Acrobat tab on Mac), and Microsoft&#8217;s built-in PDF exporting feature (save as PDF). With over 100 test cases tested first in Word and PowerPoint and then in three different PDFs (over 400 checks), here are the main takeaways.</p>
+<ol>
+<li><strong>Alt text within Word documents and PowerPoint presentations works very well.</strong> The process for adding alt text is consistent across every image type, and it is usually easy for screen readers to discover the alt text. Images in Word no longer require a layout of &#8220;In Line with Text&#8221; to avoid accessibility issues.</li>
+<li><strong>Alt text in Microsoft&#8217;s PDF exporting feature is very good.</strong> If there is one criticism, it is that the specific image type can be added to the alternative text, making it repetitive (e.g., &#8220;Pie chart of sales by quarter (Chart: Pie)&#8221;).</li>
+<li><strong>Alt text support in Adobe&#8217;s PDF tools is very disappointing.</strong> PDFs created with the Acrobat tab have problems with basically every type of image except Pictures.</li>
+</ol>
+<p>Details are below, including gotchas for almost every type of image.</p>
+<section id="notes">
+<h3>Notes</h3>
+<ul>
+<li>These tests were done in the desktop versions of Word and PowerPoint 365. Not all of these techniques apply to older or online versions of Office.</li>
+<li>&#8220;Alt text&#8221; is the name for alternative text in Word and PowerPoint, so it is the term typically used in this document.</li>
+<li>&#8220;Image&#8221; is used as a generic term for objects that can be given alt text.</li>
+<li>Word and PowerPoint files were created using the current versions of Microsoft 365 for Windows (2509) and PDFMaker (25.1.20). The PDFs created with Create PDF cloud service were created on October 29, 2025.</li>
+<li>The options to insert equations and symbols were not tested because they create text-based content.</li>
+<li>Forms were not tested.</li>
+</ul>
+</section>
+</section>
+<section id="word">
+<h2>Alt text in Word and PowerPoint</h2>
+<p>Adding alt text is consistent across all image types. Selecting the object will display a temporary tab that includes the word &#8220;Format&#8221; (e.g., &#8220;Shape Format&#8221;). There is an <span class="menuchoice">Alt Text</span> option in this tab.</p>
+<p><img decoding="async" src="/blog/media/alttext/alt-button.png" width="475" height="149" alt="Screenshot of the Shape Format tab with the Alt Text option highlighted"/></p>
+<p>You can also <span class="menuchoice">right-click</span> on the image and choose <span class="menuchoice">View Alt Text</span>.</p>
+<p>There will be a field to enter alt text and a checkbox for <span class="menuchoice">Mark as decorative</span>. There may also be options to add or accept AI-generated alt text (depending on your settings).</p>
+<p><img decoding="async" src="/blog/media/alttext/alt-pane.png" width="325" height="509" alt="Screenshot of the Alt Text pane"/></p>
+<div class="tip">
+<div class="title">
+			Tip
+		</div>
+<p>In Windows, you can keep the Alt Text pane open while using other tools like the Accessibility Assistant. To do this, click the <span class="menuchoice">Pane Options</span> icon &gt; <span class="menuchoice">Move Out of Tab</span>.</p>
+<p><img loading="lazy" decoding="async" src="/blog/media/alttext/move-tab.png" width="379" height="293" alt="Screenshot with the pane options icon selected (in the upper-right of the pane), a menu expanded, and the Move out of Tab option highlighted."/></p>
+</p></div>
+<section id="assistant">
+<h3>Accessibility Assistant</h3>
+<p>Adding and correcting alt text is usually most efficient when you combine the Accessibility Assistant with a manual review.</p>
+<p>The Accessibility Assistant will automatically identify images with missing or suspicious alt text. There are several ways to start running the Accessibility Assistant, including <span class="menuchoice">Check Accessibility</span> on the <span class="menuchoice">Review</span> tab. The Accessibility Assistant pane has grouped all of its alt text issues into one category&mdash;<span class="menuchoice">Missing alt text</span>. Choosing this category will step you through adding alt text to each image with missing or AI-generated alt text.</p>
+<p>Word has an especially useful and recommended feature that adds inline prompts for accessibility fixes. To enable this, go to <span class="menuchoice">File</span> tab &gt; <span class="menuchoice">Options</span> &gt; <span class="menuchoice">Accessibility</span> (Windows) or <span class="menuchoice">Word</span> &gt; <span class="menuchoice">Preferences</span> &gt; <span class="menuchoice">Accessibility</span> (Mac) and then check <span class="menuchoice">Show accessibility status inline with the document</span>. A small icon will appear to prompt you to make inline accessibility fixes. Clicking this icon (this is mouse only) will open a dialog where you can add or change alt text, approve AI-generated alt text, or mark as decorative.</p>
+<p><img loading="lazy" decoding="async" class="border" src="/blog/media/alttext/inline.png" width="446" height="296" alt="A photo of the WebAIM logo with the inline accessibility icon to its left. Clicking  the icon opens a window where alternative text has been entered."/></p>
+<div class="important">
+<div class="title">
+				Important
+			</div>
+<p>Remember to save changes to the alt text by choosing the <span class="menuchoice">Save</span> (Windows) or <span class="menuchoice">Approve</span> (Mac) after entering alt text. Unlike the Alt Text pane, changes are not saved automatically.</p>
+</p></div>
+</section>
+</section>
+<section id="microsoft">
+<h2>Microsoft&#8217;s Built-in PDF Conversion</h2>
+<p>For many years, the Acrobat tab consistently created PDFs with a clean structure that was easier to review in Acrobat. In late 2024, <a href="https://learn.microsoft.com/en-us/office/pdf/office2024pdfaccessibility" target="_blank">Microsoft announced significant improvement to the accessibility of their exported PDFs</a> that matched Adobe in some places and surpassed it in others. While there may still be some areas where PDFs created by Adobe&#8217;s PDFMaker and cloud services are superior, Microsoft is the clear winner when it comes to alt text. <a href="https://webaim.org/techniques/acrobat/converting#save">Creating PDFs using <span class="menuchoice">Export</span> or <span class="menuchoice">Save As</span></a> maintains alternative text for almost every image type, with emoji being the only true failure.</p>
+<p>The main issue isn&#8217;t missing information in the alt text, but extraneous information. Except for pictures, the image type is typically added to the alt text that was defined in the document. This can sometimes be helpful, but it is often repetitive or even confusing. For example, there are about 150 types of shapes, each with a unique name, so a two-sided arrow with alt text of &#8220;Two-way communication&#8221; would have alternative text of &#8220;Two-way communication (Arrow: Left-Right)&#8221; in the PDF.</p>
+</section>
+<section id="adobe">
+<h2>Adobe&#8217;s Acrobat Tab</h2>
+<p><a href="https://webaim.org/techniques/acrobat/converting#pdfmaker">PDFs created with the <span class="menuchoice">Acrobat</span> tab</a> will vary based on your operating system. On Windows, it uses Acrobat PDFMaker, which is installed when you install Acrobat. On Mac, it uses Adobe&#8217;s &#8220;Create PDF&#8221; cloud service. The PDFs created by these two tools are different, but they have one thing in common-they both often lose or corrupt alt text as part of the conversion process.</p>
+<section id="picture">
+<h3>If in doubt, convert it to a Picture.</h3>
+<p>A &#8220;Picture&#8221; is a specific type of image in Word and PowerPoint. Photos, as well as most images pasted from non-Office sources, are Pictures. You will know if something is a Picture if selecting it causes the <span class="menuchoice">Picture Format</span> tab to appear in the ribbon.</p>
+<p>A Picture with its alternative text is consistently converted to PDFs created with both PDFMaker and the Adobe cloud service. One way to ensure that all your images are correctly tagged as a PDF is to convert them to Pictures first. To  do this, first copy or cut the image. On Windows, paste it back into the page  using <span class="menuchoice">right-click</span> &gt; <span class="menuchoice">Paste Options</span> &gt; <span class="menuchoice">Picture</span>.</p>
+<p><img loading="lazy" decoding="async" class="border" src="/blog/media/alttext/paste-options.png" width="353" height="358" alt="screenshot"/></p>
+<p>On Mac, <span class="menuchoice">right-click</span> (or select the <span class="menuchoice">Edit</span> menu) &gt; choose <span class="menuchoice">Paste Special</span> &gt; and then select one of the 4 &quot;Picture&quot; file types. </p>
+<p>While pasting as a Picture a good option for many types of images, some things cannot be pasted as pictures. This includes audio and video objects that would lose their main purpose.</p>
+<p>If an image supports being pasted as a Picture, the new picture can no longer be edited, so do this with caution. It is probably a good idea to create a duplicate version of a file and do this as a final step before creating a PDF.</p>
+<div class="important">
+<div class="title">
+				Important
+			</div>
+<p>An image&#8217;s alt text will be lost when pasting it as a Picture! To avoid losing the alt text, copy&mdash;don&#8217;t cut&mdash;the image, paste as a picture, copy/paste the alt text, and then delete the original picture.</p>
+</p></div>
+</section>
+</section>
+<section id="gotchas">
+<h2>Gotchas for Different Image Types</h2>
+<p>The dozens of alt text bugs are too numerous to mention (especially creating a PDF using the Acrobat tab), but here are some notable quirks and pitfalls for different image types.</p>
+<ul>
+<li><strong>Shapes:</strong>
+<ul>
+<li>Word PDFMaker does not maintain alt text for shapes.</li>
+<li>In PDFs created by Microsoft, shape types will always be appended to the alt text.</li>
+</ul>
+</li>
+<li><strong>Icons</strong> maintain their alt text when converted to PDF. Just be sure to review and, if needed, change the preset alt text.</li>
+<li><strong>Video and Audio:</strong> Even though embedded multimedia may not be included in PDF, the alt text for the image that presents it is converted.</li>
+<li><strong>3D Models</strong> are poorly supported in Adobe PDFs. Converting to a picture is recommended when using the Acrobat tab.</li>
+<li><strong>Charts</strong>
+<ul>
+<li>PDFMaker has no alt text support for charts in Word or PowerPoint.</li>
+<li>The text information contained in a chart is not typically added to the alt text, so be sure to include important text information in the alt text or in a nearby table or text description.</li>
+</ul>
+</li>
+<li><strong>SmartArt</strong>
+<ul>
+<li>Do not bother adding alternative text to the different components within a SmartArt image. It is not easy to discover in Word and PowerPoint, and it is never included when converted to PDF.</li>
+<li>If SmartArt does not have alt text, the text within the SmartArt will be defined as the alt text in the resulting PDF.</li>
+</ul>
+</li>
+<li><strong>Groups:</strong>
+<ul>
+<li>Microsoft PDFs will include the group alt text, plus the alt text or text of the items within the group.</li>
+<li>The inconsistencies of Adobe PDFs are too numerous to list. If you&#8217;re using the Acrobat tab, converting a group to a picture is recommended.</li>
+</ul>
+</li>
+<li><strong>Tables:</strong> Do not add alt text to tables. In PDFs created from PowerPoint, it can cause the table&#8217;s contents to be ignored completely.</li>
+<li><strong>Draw tab</strong>
+<ul>
+<li>Your drawing will be saved as a single image until you change a page or slide, change a drawing tool, or stop drawing.</li>
+<li>In PowerPoint, PDFMaker does not convert these drawings at all, meaning they do not even appear in the PDF.</li>
+<li>To make it easier to add alternative text to drawings it may be easier to group them or convert them to a Picture using Paste Options.</li>
+</ul>
+</li>
+<li><strong>Emoji</strong>: Only the Adobe cloud service provides alt text for emoji, though it does this by converting them into black and white emoji.</li>
+<li><strong>Placeholders, text boxes and WordArt in PowerPoint</strong>
+<ul>
+<li>Be very careful adding outlines or fills to any of these container types. This can impact how they are read (or in the case of PDFMaker, not read).</li>
+<li>Any content that is marked as decorative should be excluded from the tag structure when converting to PDF. This can be a useful technique when used intentionally. Unfortunately, the Adobe cloud service ignores &#8220;Mark as decorative&#8221; unless the container has an outline or fill.</li>
+</ul>
+</li>
+<li><strong>Text Boxes and WordArt in Word:</strong> PDFMaker will not convert alt text or the contents of Text Boxes or WordArt in Word. Adding outlines and fills to Word paragraphs does not cause any problems, so use this technique in Word instead.</li>
+<li><strong>Text effects in Word:</strong> Applying text effects like shadows and reflections will cause the text to be ignored in PDFs created with the Acrobat tab. It can also cause issues in Microsoft PDFs (like a screen reader reading &#8220;dot&#8221; for each period). The best way to address this issue to is to cut the problematic text, paste it as a Picture and then immediately paste the same text into the Alt Text field (Windows-only).</li>
+</ul>
+</section>
+<section id="nutshell">
+<h2>In a Nutshell</h2>
+<p>When it comes to alt text in Word and PowerPoint files. Keep  the following principles in mind:</p>
+<ol>
+<li>Use the <strong>Accessibility Assistant</strong> and <strong>Alt  Text pane</strong> to add alternative text to your images. </li>
+<li>Choose <strong>Microsoft&#8217;s built-in PDF conversion</strong> for the best alt text results, especially if you have complex images. </li>
+<li>If you are using the Adobe&#8217;s <strong>Acrobat tab</strong> to create PDFs, either convert your complex images to Pictures or be ready to do significant <a href="https://webaim.org/techniques/acrobat/reviewing">repair in Acrobat</a>.</li>
+</ol>
+</section>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/word-and-powerpoint-alt-text-roundup/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Accessibility by Design: Preparing K–12 Schools for What’s Next</title>
+		<link>https://webaim.org/blog/accessibility-by-design/</link>
+					<comments>https://webaim.org/blog/accessibility-by-design/#comments</comments>
+		
+		<dc:creator><![CDATA[Cynthia Curry]]></dc:creator>
+		<pubDate>Wed, 30 Jul 2025 17:51:46 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2802</guid>
+
+					<description><![CDATA[Delivering web and digital accessibility in any environment requires strategic planning and cross-organizational commitment. While the goal (ensuring that websites and digital platforms do not present barriers to individuals with disabilities) and the standards (the Web Content Accessibility Guidelines) remain constant, implementation must be tailored to each organization’s needs and context.&#160;&#160; For K–12 educational agencies, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Delivering web and digital accessibility in any environment requires strategic planning and cross-organizational commitment. While the goal (ensuring that websites and digital platforms do not present barriers to individuals with disabilities) and the standards (the Web Content Accessibility Guidelines) remain constant, implementation must be tailored to each organization’s needs and context.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">For K–12 educational agencies, including state educational agencies (SEAs) and school districts, digital accessibility efforts must align with existing priorities, practices, and policies. A one-size-fits-all approach simply won’t work.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">A Foundation in Special Education and Alternatives to Print Materials&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Since 1975, the <a href="https://sites.ed.gov/idea/" target="_blank" rel="noreferrer noopener">Individuals with Disabilities Education Act (IDEA)</a> has required that students with disabilities be provided access to the general education curriculum. When IDEA was last reauthorized in 2004, it included a provision that SEAs and districts provide accessible formats of print materials—such as braille, large print, digital text, and audio—to eligible students with disabilities.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Each SEA is required to define what constitutes a “timely manner” for providing accessible formats. Most states have adopted a definition that aligns with the expectation that students with disabilities receive accessible formats <em>at the same time</em> as their peers without disabilities receive the print version of the materials.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">To help meet this requirement, Congress established the National Instructional Materials Accessibility Standard (NIMAS) and the National Instructional Materials Access Center (NIMAC). Together, <a href="https://ncademi.org/resources/publications/nimas-nimac-seas-leas/" target="_blank" rel="noreferrer noopener">NIMAS and the NIMAC</a> have supported the timely delivery of accessible formats in K–12 settings for nearly two decades.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">The Shift to Digital and New Challenges for Accessibility&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">While IDEA remains grounded in the early 2000s, the instructional landscape in K-12 schools has rapidly shifted from print to digital. Relative to most higher education institutions, SEAs and school districts haven’t kept pace with digital accessibility. One reason for this lies in the differences between the primary disability laws that govern K–12 versus higher education. In K–12, IDEA guarantees a free appropriate public education (FAPE), which includes an individualized education program (IEP) and specially designed instruction. This model often includes <strong>individualized assistance</strong> to address the daily accessibility issues experienced by students with disabilities. For example, a paraprofessional might assist a student whose assistive technology doesn’t work with an inaccessible website assigned for homework. These interventions, although understandable in context, have interfered with progress toward removing digital barriers in K-12.&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">By contrast, in higher education, the <a href="https://www.ada.gov/" target="_blank" rel="noreferrer noopener">Americans with Disabilities Act (ADA)</a> emphasizes equal access through <strong>reasonable accommodations</strong>. While accommodations should be individually designed to meet the access needs of the student with a disability, the ADA states that accommodations are not required when they would result in a fundamental alteration of the student’s educational program. Because postsecondary students with disabilities are expected to make educational progress with considerable independence, higher ed institutions have had to be proactive with digital accessibility to ensure equitable and effective access to course materials and platforms.&nbsp;&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">ADA Title II Raises the Bar for Digital Accessibility in K–12&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">The <a href="https://webaim.org/blog/impact-of-rulemaking/" target="_blank" rel="noreferrer noopener">recent ADA Title II final rule</a> makes it clear that the responsibilities of SEAs and school districts extend beyond providing accessible formats. Under the ADA, the digital educational materials provided by schools must meet specific accessibility standards by either April 24, 2026 (SEAs and larger school districts) or April 26, 2027 (smaller school districts). This is a significant challenge for schools that have been operating for decades under the model of individualized accommodations required by IDEA.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Partnering for Progress: NCADEMI&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">WebAIM is proud to partner with the <a href="https://ncademi.org/" target="_blank" rel="noreferrer noopener">National Center on Accessible Digital Educational Materials &amp; Instruction (NCADEMI)</a>, pronounced “n-cademy,” to help SEAs and school districts meet ADA Title II requirements. Launched on October 1, 2024, and funded by the Office of Special Education Programs at the U.S. Department of Education, NCADEMI supports the timely provision and effective use of accessible digital materials for learners with disabilities, from early intervention through high school graduation.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">Free Tools and Training from NCADEMI&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">NCADEMI provides a range of no-cost resources and training to help education agencies meet digital accessibility obligations, including:&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ncademi.org/resources/publications/roadmap/" target="_blank" rel="noreferrer noopener">Meeting the ADA Title II Web and Mobile Accessibility Requirements: A Roadmap for State and Local Educational Agencies</a> </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ncademi.org/resources/basics/" target="_blank" rel="noreferrer noopener">Core Skills for Digital Accessibility</a> </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ncademi.org/resources/diy-accessibility-basics/" target="_blank" rel="noreferrer noopener">Do-It-Yourself Accessibility Basics</a> </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ncademi.org/resources/publications/procurement/" target="_blank" rel="noreferrer noopener">Including Accessibility in All Components of Procurement: A Guide for SEAs and School Districts</a> </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://ncademi.org/events/webinars/" target="_blank" rel="noreferrer noopener">Browse our archive of recorded webinars</a> </li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">What’s Next: Quality Indicators and Implementation Tools&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">As NCADEMI approaches its second year, we’re preparing to launch the <em>Quality Indicators for the Provision and Use of Accessible Materials in PreK–12 Systems</em>. These will include research-based readiness protocols and self-assessment tools designed specifically for SEAs and school districts. Virtual coaching on best practices for implementing the Quality Indicators will be available to SEA and district teams starting in October 2025.&nbsp;&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">To stay informed about new tools and opportunities, <a href="https://ncademi.org/newsletter/" target="_blank" rel="noreferrer noopener">subscribe to NCADEMI’s newsletter</a> and <a href="https://www.linkedin.com/company/ncademi/" target="_blank" rel="noreferrer noopener">follow NCADEMI on LinkedIn</a>. Contact us directly at <a href="mailto:ncademi@usu.edu" target="_blank" rel="noreferrer noopener">ncademi@usu.edu</a>.&nbsp;&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/accessibility-by-design/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Up and Coming ARIA </title>
+		<link>https://webaim.org/blog/up-and-coming-aria/</link>
+		
+		<dc:creator><![CDATA[John Northup]]></dc:creator>
+		<pubDate>Fri, 30 May 2025 18:19:41 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2795</guid>
+
+					<description><![CDATA[If you work in web accessibility, you&#8217;ve probably spent a lot of time explaining and implementing the ARIA roles and attributes that have been around for years—things like aria-label, aria-labelledby, and role="dialog". But the ARIA landscape isn’t static. In fact, recent ARIA specifications (especially ARIA 1.3) include a number of emerging and lesser-known features that [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">If you work in web accessibility, you&#8217;ve probably spent a lot of time explaining and implementing the ARIA roles and attributes that have been around for years—things like <code>aria-label</code>, <code>aria-labelledby</code>, and <code>role="dialog"</code>. But the ARIA landscape isn’t static. In fact, recent ARIA specifications (especially ARIA 1.3) include a number of emerging and lesser-known features that are quietly laying the groundwork for the next phase of inclusive web design. </p>
+
+
+
+<p class="wp-block-paragraph">In this article, we’ll look at some of the <strong>“up and coming” ARIA features</strong>—some already supported, some just getting started, and some you might not have heard of. Think of these as tools to keep on your radar as browser and screen reader support continues to evolve.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Environments Tested&nbsp;</h2>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Windows 11: </strong>Current versions (May 2025) of JAWS, NVDA, and Narrator with Chrome, Firefox, and Edge. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>MacOS Sequoia: </strong>Current versions (May 2025) of VoiceOver with Safari, Chrome, and Firefox. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>iOS 18.4: </strong>VoiceOver with Safari. </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Android 15: </strong>TalkBack 15.2 with Chrome. </li>
+</ul>
+
+
+
+<h2 class="wp-block-heading">New and Notable ARIA Attributes&nbsp;</h2>
+
+
+
+<h3 class="wp-block-heading">aria-errormessage&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">This attribute lets you explicitly associate a custom error message with a form field when <code>aria-invalid="true"</code> is present. Unlike <code>aria-describedby</code>, which is often used generically, <code>aria-errormessage</code> gets announced <em>only when</em> the field is invalid—making it purpose-built for form error feedback. </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Support:</strong> Strong across JAWS, NVDA, and iOS VoiceOver, but limited elsewhere.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">aria-description&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">This provides a programmatic description of an element that’s not necessarily visible on screen. It differs from <code>aria-describedby</code> in that it’s meant more as a <em>supplement</em>, such as content that is not visible in the page; not essential content. </p>
+
+
+
+<p class="wp-block-paragraph">A practical example: a breadcrumb trail with <code>aria-description="You are here:"</code>—which offers helpful orientation to screen reader users without cluttering the visual design. </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Support:</strong> Surprisingly limited, with only NVDA and iOS VoiceOver currently handling it well.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">aria-details&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">This attribute points to detailed, supplementary content—kind of like a modern replacement for the old (and poorly supported) <code>longdesc</code> attribute. It is intended to contain more information than would normally be provided via <code>aria-describedby</code>. For instance, you might have a chart with <code>aria-details</code> referencing a nearby data table. </p>
+
+
+
+<p class="wp-block-paragraph"><strong>Support:</strong> Announced in some screen readers, but there’s currently <em>no way</em> to access the details element directly from the element that references it. So, it’s more of a placeholder for future capability than a production-ready feature.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">aria-keyshortcuts&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">Want to communicate that a button is triggered with the Escape key, or that pressing “Ctrl+M” will mute audio? <code>aria-keyshortcuts</code> allows you to document keyboard shortcuts directly in the DOM. </p>
+
+
+
+<p class="wp-block-paragraph">This doesn’t <em>enable</em> the shortcut—it just declares it. But for users navigating with screen readers, this can surface helpful hints they might not see otherwise.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Support:</strong> Decent in Chrome and Edge, less so in Firefox and mobile environments.&nbsp;</p>
+
+
+
+<h3 class="wp-block-heading">aria-placeholder&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">The HTML <code>placeholder</code> attribute adds text to an empty field. This text is read by a screen reader, even when the field is no longer empty. <code>aria-placeholder</code> text is read by the screen reader without adding the visible text and is particularly useful for custom widgets that simulate form fields. For example, if you build a <code>div[contenteditable]</code> component, you can add a prompt with <code>aria-placeholder</code> that matches the visible placeholder text.</p>
+
+
+
+<p class="wp-block-paragraph"><strong>Support:</strong> Surprisingly consistent across major screen readers—including JAWS, NVDA, VoiceOver, and TalkBack.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Lesser-Known ARIA Roles&nbsp;</h2>
+
+
+
+<h3 class="wp-block-heading">role=&#8221;mark&#8221;, role=&#8221;comment&#8221;, and role=&#8221;suggestion&#8221;&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">These roles are especially useful for editorial and collaborative systems.&nbsp;</p>
+
+
+
+<ul class="wp-block-list">
+<li><code>role="mark"</code> = highlighted text </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><code>role="comment"</code> = user-generated feedback or discussion </li>
+</ul>
+
+
+
+<ul class="wp-block-list">
+<li><code>role="suggestion"</code> = proposed content changes </li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">Support is still inconsistent, though <code>role="mark"</code> (semantically equivalent to <code>&lt;mark></code>) is catching on. </p>
+
+
+
+<h3 class="wp-block-heading">role=&#8221;code&#8221; and role=&#8221;time&#8221;&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">These mimic the semantics of <code>&lt;code></code> and <code>&lt;time></code> respectively and are useful in component-based systems where native tags aren’t practical. Support is limited. </p>
+
+
+
+<h3 class="wp-block-heading">role=&#8221;image&#8221;&nbsp;</h3>
+
+
+
+<p class="wp-block-paragraph">This one is more of a convenience: it’s just a synonym for <code>role="img"</code>. It doesn’t change behavior, but it can be useful for readability or design consistency when using roles that mirror natural language. </p>
+
+
+
+<h2 class="wp-block-heading">Where Does This Leave Us?&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Many of these features are in what you might call the <strong>&#8220;infrastructure stage&#8221;</strong>: they’re well-defined and ready to use <em>in theory</em>, but screen reader and browser support remains uneven. Still, that’s exactly when accessibility professionals should start paying attention—because by the time support is universal, the best practices will already be written.&nbsp;</p>
+
+
+
+<p class="wp-block-paragraph">Until then, it’s important to know what’s possible, test across multiple environments, and deploy these newer features when they add real value and degrade gracefully.&nbsp;</p>
+
+
+
+<h2 class="wp-block-heading">Want to Explore Some HTML Examples?&nbsp;</h2>
+
+
+
+<p class="wp-block-paragraph">Check out the companion demo page here:&nbsp;<br><a href="https://webaim.org/presentations/2025/examples/up-and-coming-aria" target="_blank" rel="noreferrer noopener">webaim.org/presentations/2025/examples/up-and-coming-aria</a>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Global Digital Accessibility Salary Survey Results</title>
+		<link>https://webaim.org/blog/salary-survey-results/</link>
+					<comments>https://webaim.org/blog/salary-survey-results/#comments</comments>
+		
+		<dc:creator><![CDATA[Jared Smith]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2025 20:45:03 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://webaim.org/blog/?p=2783</guid>
+
+					<description><![CDATA[In December 2024 WebAIM conducted a survey to collect salary and job-related data from professionals whose job responsibilities primarily focus on making technology and digital products accessible and usable to people with disabilities. 656 responses were collected. The full survey results are now available. This survey was conducted in conjunction with the&#160;GAAD Foundation. The GAAD [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">In December 2024 WebAIM conducted a survey to collect salary and job-related data from professionals whose job responsibilities primarily focus on making technology and digital products accessible and usable to people with disabilities. 656 responses were collected. <a href="https://webaim.org/projects/salary/">The full survey results are now available.</a></p>
+
+
+
+<p class="wp-block-paragraph">This survey was conducted in conjunction with the&nbsp;<a href="https://gaad.foundation/">GAAD Foundation</a>. The GAAD Foundation is a nonprofit organization whose mission is to disrupt the culture of technology and digital product development to include accessibility as a core requirement.<br> <img decoding="async" style="width:323px;height:auto" src="https://webaim.org/projects/salary/media/GAAD-Fdn-Logo.png" alt="GAAD Foundation logo."></p>
+
+
+
+<h2 class="wp-block-heading">Survey Results Highlights</h2>
+
+
+
+<ul class="wp-block-list">
+<li>Respondents that reported working full time reported an average salary of $109,542 US dollars (median = $96,100). Average salaries varied by country.</li>
+
+
+
+<li>57.6% of respondents reported having a disability. Respondents with disabilities reported higher full-time salaries on average than respondents without disabilities.</li>
+
+
+
+<li>Blind respondents had the highest average salary of all disability types. Respondents with motor disabilities were the only disability category that reported lower average salaries than respondents without disabilities.</li>
+
+
+
+<li>65% of respondents reported working at companies or organizations with over 1000 people. Employees for larger companies/organizations generally reported notably higher average salaries.</li>
+
+
+
+<li>Those who reported working in an office had notably lower salaries on average than respondents that reported working remotely or in hybrid environments.</li>
+
+
+
+<li>22.5% of respondents worked for accessibility software, tools, or services companies. These respondents reported notably lower full-time salaries.</li>
+</ul>
+
+
+
+<p class="wp-block-paragraph">More results are available in <a href="https://webaim.org/projects/salary/">the full Salary Survey results report</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://webaim.org/blog/salary-survey-results/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
 https://obsservice.police.go.th/#/AIzaSyATBXajvzQLTDHEQbcpq0Ihe0vWDHmO520
 คีย์ API X-goog	AIzaSyATBXajvzQLTDHEQbcpq0Ihe0vWDHmO520
 ประเภทเนื้อหา	แอปพลิเคชัน/json+protobuf
